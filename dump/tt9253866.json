@@ -1,0 +1,74 @@
+{
+  "name": "Our Planet",
+  "seasons": [
+    {
+      "season": "Season 1",
+      "episodes": [
+        {
+          "episodeName": "One Planet",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc4MDM0MjAyM15BMl5BanBnXkFtZTgwNzU3NjM3NzM@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "5 Apr. 2019",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt9253868/?ref_=ttep_ep1",
+          "runTime": "50min"
+        },
+        {
+          "episodeName": "Frozen Worlds",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjM3NTg0NjI5OF5BMl5BanBnXkFtZTgwNzM3NjM3NzM@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "5 Apr. 2019",
+          "episodeRating": "9.2",
+          "imdbLink": "https://www.imdb.com/title/tt9253870/?ref_=ttep_ep2",
+          "runTime": null
+        },
+        {
+          "episodeName": "Jungles",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjI4MTE4NzA1M15BMl5BanBnXkFtZTgwNDE3NjM3NzM@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "5 Apr. 2019",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt9253872/?ref_=ttep_ep3",
+          "runTime": "51min"
+        },
+        {
+          "episodeName": "Coastal Seas",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU2MDAzNzcwNF5BMl5BanBnXkFtZTgwOTY2NjM3NzM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "5 Apr. 2019",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt9253874/?ref_=ttep_ep4",
+          "runTime": null
+        },
+        {
+          "episodeName": "From Deserts to Grasslands",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTYyODgzMzgzOV5BMl5BanBnXkFtZTgwMzY2NjM3NzM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "5 Apr. 2019",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt9253876/?ref_=ttep_ep5",
+          "runTime": "51min"
+        },
+        {
+          "episodeName": "The High Seas",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjUzOTc0OTg0OV5BMl5BanBnXkFtZTgwNTk2NjM3NzM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "5 Apr. 2019",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt9253878/?ref_=ttep_ep6",
+          "runTime": null
+        },
+        {
+          "episodeName": "Fresh Water",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU2ODAzODEwNF5BMl5BanBnXkFtZTgwNzg2NjM3NzM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "5 Apr. 2019",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt9253880/?ref_=ttep_ep7",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "Forests",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYzMDE4MTA3MF5BMl5BanBnXkFtZTgwNTE3NjM3NzM@._V1_UY126_CR7,0,224,126_AL_.jpg",
+          "airDate": "5 Apr. 2019",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt9253882/?ref_=ttep_ep8",
+          "runTime": null
+        }
+      ]
+    }
+  ]
+}

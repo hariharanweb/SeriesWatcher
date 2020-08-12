@@ -1,0 +1,74 @@
+{
+  "name": "Blue Planet II",
+  "seasons": [
+    {
+      "season": "Season 1",
+      "episodes": [
+        {
+          "episodeName": "One Ocean",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDdkOTVlZDMtZDk2OC00NWRmLWIxZTMtNGQ4NTgyNzQ1ZjRhXkEyXkFqcGdeQXVyODEyMzI2OTE@._V1_UY126_CR6,0,224,126_AL_.jpg",
+          "airDate": "20 Jan. 2018",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt7473714/?ref_=ttep_ep1",
+          "runTime": "51min"
+        },
+        {
+          "episodeName": "The Deep",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2QyOGYyZWUtMTA4ZC00MDhkLWEwMDYtZjY3YzM3YjQ1ODljXkEyXkFqcGdeQXVyODEyMzI2OTE@._V1_UY126_CR7,0,224,126_AL_.jpg",
+          "airDate": "27 Jan. 2018",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt7579602/?ref_=ttep_ep2",
+          "runTime": null
+        },
+        {
+          "episodeName": "Coral Reefs",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BODdiZGMwZjktNWRlZS00NWI5LWE3ZmItNWI0ZmZmMTAzMTAxXkEyXkFqcGdeQXVyODEyMzI2OTE@._V1_UY126_CR10,0,224,126_AL_.jpg",
+          "airDate": "3 Feb. 2018",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt7579764/?ref_=ttep_ep3",
+          "runTime": "51min"
+        },
+        {
+          "episodeName": "Big Blue",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWU1ODM5OTYtYzQ1MC00NTY3LWE4ZmMtNjk5NWQ0MzY2MWIyXkEyXkFqcGdeQXVyNTcxNTgwODU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "19 Nov. 2017",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt7579754/?ref_=ttep_ep4",
+          "runTime": null
+        },
+        {
+          "episodeName": "Green Seas",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmExMzQwMmEtMDNlZS00MzlkLWJkZDEtM2M1YThmMDNjODU4XkEyXkFqcGdeQXVyODEyMzI2OTE@._V1_UY126_CR0,0,224,126_AL_.jpg",
+          "airDate": "26 Nov. 2017",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt7579758/?ref_=ttep_ep5",
+          "runTime": "53min"
+        },
+        {
+          "episodeName": "Coasts",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmExZjczYTItOTM2Mi00NjZiLTg5YjgtMzViNmZmZTU1MzZiXkEyXkFqcGdeQXVyNTcxNTgwODU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "3 Dec. 2017",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt7579776/?ref_=ttep_ep6",
+          "runTime": "50min"
+        },
+        {
+          "episodeName": "Our Blue Planet",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzg0YzgxMmEtYjYwNy00YWI3LWJlZmUtZGQ0YzdkY2QwNTk2XkEyXkFqcGdeQXVyNTcxNTgwODU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "10 Dec. 2017",
+          "episodeRating": "8.2",
+          "imdbLink": "https://www.imdb.com/title/tt7579782/?ref_=ttep_ep7",
+          "runTime": null
+        },
+        {
+          "episodeName": "Oceans of Wonder",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmUwMGE0YmQtYTBiMC00Mzg4LWJiZDMtNDlhN2FhYzE4ZGNjXkEyXkFqcGdeQXVyNTcxNTgwODU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "1 Jan. 2018",
+          "episodeRating": "7.5",
+          "imdbLink": "https://www.imdb.com/title/tt7656600/?ref_=ttep_ep8",
+          "runTime": "1h 30min"
+        }
+      ]
+    }
+  ]
+}

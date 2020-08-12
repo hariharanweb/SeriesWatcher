@@ -1,0 +1,58 @@
+{
+  "name": "Planet Earth II",
+  "seasons": [
+    {
+      "season": "Season 1",
+      "episodes": [
+        {
+          "episodeName": "Islands",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzA3OTc4ODAtYzIzMy00ZjJlLThhYjAtNGIxOTNlMWJlNTc5XkEyXkFqcGdeQXVyMjA1MDAxMDU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "18 Feb. 2017",
+          "episodeRating": "9.4",
+          "imdbLink": "https://www.imdb.com/title/tt6142646/?ref_=ttep_ep1",
+          "runTime": "51min"
+        },
+        {
+          "episodeName": "Mountains",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzVkMTAyNDEtYzdhZi00ZDRlLWEzNjYtMWRlZGFjOTk1ZmRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjE2ODc0NDg@._V1_UY126_CR0,0,224,126_AL_.jpg",
+          "airDate": "25 Feb. 2017",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt6209126/?ref_=ttep_ep2",
+          "runTime": null
+        },
+        {
+          "episodeName": "Jungles",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmJjYWNkYzMtMGZiYy00NzFhLWE3NjQtZmQxMzU5ODUxZjBhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjk2MjMzNDY@._V1_UY126_CR2,0,224,126_AL_.jpg",
+          "airDate": "4 Mar. 2017",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt6209130/?ref_=ttep_ep3",
+          "runTime": "50min"
+        },
+        {
+          "episodeName": "Deserts",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTJmMWFiOTMtZWViNS00OTcxLTgzZWQtOTEyZmE1YjNjNjQzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ4NDc2MDM@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "11 Mar. 2017",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt6209134/?ref_=ttep_ep4",
+          "runTime": null
+        },
+        {
+          "episodeName": "Grasslands",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTY5YzBjN2EtOThjOS00ODY2LWEwYjUtMzNlYmE5YTM5YmY1L2ltYWdlXkEyXkFqcGdeQXVyNjg4OTg4Njc@._V1_UY126_CR22,0,224,126_AL_.jpg",
+          "airDate": "18 Mar. 2017",
+          "episodeRating": "8.5",
+          "imdbLink": "https://www.imdb.com/title/tt6209140/?ref_=ttep_ep5",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "Cities",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTIwNzk4NTItZGM4Yi00NjY1LWJiZWUtOWVmNGQ0N2E4ZDI4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzAzNDkyMjQ@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "25 Mar. 2017",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt6209144/?ref_=ttep_ep6",
+          "runTime": null
+        }
+      ]
+    }
+  ]
+}

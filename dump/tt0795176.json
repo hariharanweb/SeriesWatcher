@@ -1,0 +1,98 @@
+{
+  "name": "Planet Earth",
+  "seasons": [
+    {
+      "season": "Season 1",
+      "episodes": [
+        {
+          "episodeName": "From Pole to Pole",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA2NDA1MzYyNl5BMl5BanBnXkFtZTgwMDgzMDU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "25 Mar. 2007",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt0797603/?ref_=ttep_ep1",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "Mountains",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjI5MzEzODg0Ml5BMl5BanBnXkFtZTgwMzgzMDU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "25 Mar. 2007",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0797602/?ref_=ttep_ep2",
+          "runTime": "48min"
+        },
+        {
+          "episodeName": "Fresh Water",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY1Mjk1OTIxMl5BMl5BanBnXkFtZTgwNjgzMDU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "15 Apr. 2007",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0797601/?ref_=ttep_ep3",
+          "runTime": null
+        },
+        {
+          "episodeName": "Caves",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ0ODY4NDA5MF5BMl5BanBnXkFtZTgwNTkwMTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "22 Apr. 2007",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt0799305/?ref_=ttep_ep4",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "Deserts",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjI0ODkyNDYyMl5BMl5BanBnXkFtZTgwNzUyNTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "1 Apr. 2007",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt0818059/?ref_=ttep_ep5",
+          "runTime": null
+        },
+        {
+          "episodeName": "Ice Worlds",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjM3OTk3MjkxNV5BMl5BanBnXkFtZTgwOTA4MzU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "1 Apr. 2007",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0905876/?ref_=ttep_ep6",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "Great Plains",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ3NjkzMDI0Nl5BMl5BanBnXkFtZTgwMjE5NDE1NTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "8 Apr. 2007",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt0905875/?ref_=ttep_ep7",
+          "runTime": null
+        },
+        {
+          "episodeName": "Jungles",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjE5NzY2NDkwOF5BMl5BanBnXkFtZTgwMTE5NDE1NTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "8 Apr. 2007",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0905877/?ref_=ttep_ep8",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "The Shallow Seas",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk0Njg3OTUyN15BMl5BanBnXkFtZTgwODA4MzU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "8 Apr. 2007",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0905880/?ref_=ttep_ep9",
+          "runTime": null
+        },
+        {
+          "episodeName": "Seasonal Forests",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjgyOTIzMjYwOF5BMl5BanBnXkFtZTgwMDE5NDE1NTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "22 Apr. 2007",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0905879/?ref_=ttep_ep10",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "Ocean Deep",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjAyODU0OTM0OV5BMl5BanBnXkFtZTgwNjE4MzU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "25 Mar. 2007",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0905878/?ref_=ttep_ep11",
+          "runTime": "49min"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Chernobyl",
+  "seasons": [
+    {
+      "season": "Season 1",
+      "episodes": [
+        {
+          "episodeName": "1:23:45",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2Q5ZjE0NzMtNDZhZC00N2RiLWFjMjgtOGIxZGJhM2NmY2ViXkEyXkFqcGdeQXVyMjIyMTc0ODQ@._V1_UY126_CR14,0,224,126_AL_.jpg",
+          "airDate": "6 May 2019",
+          "episodeRating": "9.5",
+          "imdbLink": "https://www.imdb.com/title/tt8162428/?ref_=ttep_ep1",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Please Remain Calm",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWM2ODBmN2UtZWQ5OC00MWNjLWFhODItZmI4NDE2YjQzZjczXkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_UY126_CR14,0,224,126_AL_.jpg",
+          "airDate": "13 May 2019",
+          "episodeRating": "9.6",
+          "imdbLink": "https://www.imdb.com/title/tt8482972/?ref_=ttep_ep2",
+          "runTime": null
+        },
+        {
+          "episodeName": "Open Wide, O Earth",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWFjYzRiZmYtNDNjNC00MTRiLWI1NGUtMDhkMTM5NDM3YjlmXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "20 May 2019",
+          "episodeRating": "9.6",
+          "imdbLink": "https://www.imdb.com/title/tt9166672/?ref_=ttep_ep3",
+          "runTime": "1h 5min"
+        },
+        {
+          "episodeName": "The Happiness of All Mankind",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjE1NDhkNTYtY2UwYi00MzQyLTlhNTUtM2NiN2Y5Mjk4MzI1XkEyXkFqcGdeQXVyNzIwNDA4NzI@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "27 May 2019",
+          "episodeRating": "9.5",
+          "imdbLink": "https://www.imdb.com/title/tt9166678/?ref_=ttep_ep4",
+          "runTime": "1h 7min"
+        },
+        {
+          "episodeName": "Vichnaya Pamyat",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTNiMTUxNGEtZWRkNS00ZTFlLThiYTItMDZhNzA5NDUwNDBhXkEyXkFqcGdeQXVyODc0NjQ1MTY@._V1_UY126_CR14,0,224,126_AL_.jpg",
+          "airDate": "3 Jun. 2019",
+          "episodeRating": "9.9",
+          "imdbLink": "https://www.imdb.com/title/tt9166696/?ref_=ttep_ep5",
+          "runTime": null
+        }
+      ]
+    }
+  ]
+}

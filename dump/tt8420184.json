@@ -1,0 +1,90 @@
+{
+  "name": "The Last Dance",
+  "seasons": [
+    {
+      "season": "Season 1",
+      "episodes": [
+        {
+          "episodeName": "Episode I",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGYzZWVmNTAtYWQ5My00OGVmLThmM2UtOTNhODZmYjI3MTgxXkEyXkFqcGdeQXVyMTA1MjI2MzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "19 Apr. 2020",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt8434580/?ref_=ttep_ep1",
+          "runTime": "50min"
+        },
+        {
+          "episodeName": "Episode II",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjIzY2FjNGUtMDA1ZC00Y2FiLWFhZWYtNzhmYjUzYjMzYjk0XkEyXkFqcGdeQXVyMTA1MjI2MzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "19 Apr. 2020",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt8434582/?ref_=ttep_ep2",
+          "runTime": null
+        },
+        {
+          "episodeName": "Episode III",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWFhZWI0MjQtNGJlNC00MWJiLTk5NWItZGU0ZWVlODYwOTUwXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "26 Apr. 2020",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt8434584/?ref_=ttep_ep3",
+          "runTime": "48min"
+        },
+        {
+          "episodeName": "Episode IV",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWM0OGVjMDQtYTk0Ny00ZTY4LTkxZmItMzQyMjcxY2YyMDRkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "26 Apr. 2020",
+          "episodeRating": "9.2",
+          "imdbLink": "https://www.imdb.com/title/tt8434588/?ref_=ttep_ep4",
+          "runTime": null
+        },
+        {
+          "episodeName": "Episode V",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmM2Y2QyMTgtNzgwZC00ZjhkLWEzYWUtZjkxNWNmODU2NzI0XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "3 May 2020",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt8434590/?ref_=ttep_ep5",
+          "runTime": "50min"
+        },
+        {
+          "episodeName": "Episode VI",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2U1OTA5ZTgtNjBhYy00NGUyLTg5ZGYtYjg5NmY5OGQ3YTc4XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "3 May 2020",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt8434592/?ref_=ttep_ep6",
+          "runTime": null
+        },
+        {
+          "episodeName": "Episode VII",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg4MmIyYjctMDNlZC00Mjc0LTgzMDgtNDcwN2U3MTA0OGE3XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "10 May 2020",
+          "episodeRating": "9.3",
+          "imdbLink": "https://www.imdb.com/title/tt8434594/?ref_=ttep_ep7",
+          "runTime": "50min"
+        },
+        {
+          "episodeName": "Episode VIII",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BODBlM2VjZGMtMmIxYi00Y2EzLTlhMTItM2NmYWZhZWY2OGMwXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UY126_CR0,0,224,126_AL_.jpg",
+          "airDate": "10 May 2020",
+          "episodeRating": "9.3",
+          "imdbLink": "https://www.imdb.com/title/tt8434596/?ref_=ttep_ep8",
+          "runTime": null
+        },
+        {
+          "episodeName": "Episode IX",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjg2OGRhOTQtMTQyMS00OTY1LTk0OTUtOWYxYmU0ZjI4MjI2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "17 May 2020",
+          "episodeRating": "9.4",
+          "imdbLink": "https://www.imdb.com/title/tt8434600/?ref_=ttep_ep9",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "Episode X",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzNhN2UzNjMtOTMzMC00ZmIxLWEzNzUtNTFmYTA0NWEzYWU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "17 May 2020",
+          "episodeRating": "9.6",
+          "imdbLink": "https://www.imdb.com/title/tt8434604/?ref_=ttep_ep10",
+          "runTime": null
+        }
+      ]
+    }
+  ]
+}
