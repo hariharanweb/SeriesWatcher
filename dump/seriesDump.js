@@ -4,6 +4,8 @@ const { getImgSrc, getHref } = require('./utils');
 const fs = require('fs');
 
 const getTimeForEpisode = async url => {
+    await closeBrowser()
+    await openBrowser()
     await goto(url, { navigationTimeout: 60000 });
     const time = await $('.title_wrapper time').text();
     return time.trim()
@@ -11,7 +13,9 @@ const getTimeForEpisode = async url => {
 (async () => {
     const failedURLs = [];
     const getSeasonDetails = async (season, seriesId) => {
-        await goto(`https://www.imdb.com/title/${seriesId}/episodes`);
+        await closeBrowser();
+        await openBrowser();
+        await goto(`https://www.imdb.com/title/${seriesId}/episodes`, {navigationTimeout: 60000});
         await dropDown("Season:").select(season);
         const seasonName = await $('#episode_top').text()
         const episodeElements = await $('.list_item').elements()
@@ -66,6 +70,7 @@ const getTimeForEpisode = async url => {
         fs.writeFileSync(`./dump/${seriesId}.json`, JSON.stringify(details));
         fs.writeFileSync(`./dump/failed.json`, JSON.stringify(failedURLs));
     } catch (error) {
+        console.error(error)
         console.error("Failed for series",seriesId);
         await repl();
     } finally {
