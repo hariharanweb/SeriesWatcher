@@ -1,0 +1,74 @@
+{
+    "name": "The Beatles Anthology",
+    "seasons": [
+        {
+            "season": "Season 1",
+            "episodes": [
+                {
+                    "episodeName": "July '40 to March '63",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGFiYWUzZWItODk5Zi00YTZhLTg2ZGEtYmQxNjg4ZDFmMDNjXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "11 Nov. 1995",
+                    "episodeRating": "8.8",
+                    "imdbLink": "https://www.imdb.com/title/tt1522697/?ref_=ttep_ep1",
+                    "runTime": "1h 19min"
+                },
+                {
+                    "episodeName": "March '63 to February '64",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGNkZGQxNTEtNjM3Ny00MzU3LWI1OTYtMmUwZTRiZjEzMjcxXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "11 Nov. 1995",
+                    "episodeRating": "8.8",
+                    "imdbLink": "https://www.imdb.com/title/tt1522698/?ref_=ttep_ep2",
+                    "runTime": "1h 19min"
+                },
+                {
+                    "episodeName": "February '64 to July '64",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmQzMzM0OGYtMjczZC00MDk1LThjNTItMzgyODljYzhmN2YzXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "19 Nov. 1995",
+                    "episodeRating": "8.8",
+                    "imdbLink": "https://www.imdb.com/title/tt1522696/?ref_=ttep_ep3",
+                    "runTime": "1h 13min"
+                },
+                {
+                    "episodeName": "August '64 to August '65",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWI2NTVhNjMtMGU1OC00NzRhLTkyODItOWI0YWE2NmRlMmIwXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "11 Nov. 1995",
+                    "episodeRating": "8.9",
+                    "imdbLink": "https://www.imdb.com/title/tt1526960/?ref_=ttep_ep4",
+                    "runTime": "1h 19min"
+                },
+                {
+                    "episodeName": "August '65 to July '66",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGYzMTYxZDUtNjE3OC00NmI5LTk2ZGEtOWJlM2YzOGZiYTg5XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "22 Nov. 1995",
+                    "episodeRating": "9.0",
+                    "imdbLink": "https://www.imdb.com/title/tt1526961/?ref_=ttep_ep5",
+                    "runTime": "1h 12min"
+                },
+                {
+                    "episodeName": "July '66 to June '67",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjdkN2FkZjgtNzAxMi00Y2VkLWIwYTUtYWE0M2EwNDQxMjJlXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "22 Nov. 1995",
+                    "episodeRating": "8.9",
+                    "imdbLink": "https://www.imdb.com/title/tt1526962/?ref_=ttep_ep6",
+                    "runTime": "1h 19min"
+                },
+                {
+                    "episodeName": "June '67 to July '68",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDgyNTMzZjgtOGJhYS00NTg0LWE5N2EtYmVkYjUxMGViZTliXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "5 Sep. 1996",
+                    "episodeRating": "9.0",
+                    "imdbLink": "https://www.imdb.com/title/tt1528187/?ref_=ttep_ep7",
+                    "runTime": "1h 14min"
+                },
+                {
+                    "episodeName": "July '68 to the End",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2RiYzBmMTQtMDMzNy00ZWJkLTgxOTUtODQxMjI2NWM2Mzc4XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "5 Sep. 1996",
+                    "episodeRating": "8.9",
+                    "imdbLink": "https://www.imdb.com/title/tt1528186/?ref_=ttep_ep8",
+                    "runTime": "1h 19min"
+                }
+            ]
+        }
+    ]
+}
