@@ -1,1 +1,98 @@
-{"name":"Life","seasons":[{"season":"Season 1","episodes":[{"episodeName":"Challenges of Life","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTA2Mjg4MjA5MjReQTJeQWpwZ15BbWU4MDM3NzE4NDIx._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"12 Oct. 2009","episodeRating":"8.8","imdbLink":"https://www.imdb.com/title/tt1535233/?ref_=ttep_ep1","runTime":"43min"},{"episodeName":"Reptiles & Amphibians","imageUrl":"https://m.media-amazon.com/images/M/MV5BMjg5MzI3MzAyNl5BMl5BanBnXkFtZTgwMjA2MDk0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"19 Oct. 2009","episodeRating":"8.7","imdbLink":"https://www.imdb.com/title/tt1558023/?ref_=ttep_ep2","runTime":"1h 2min"},{"episodeName":"Mammals","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTg3NDUzMzgyNF5BMl5BanBnXkFtZTgwMzkzMTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"26 Oct. 2009","episodeRating":"8.5","imdbLink":"https://www.imdb.com/title/tt1561895/?ref_=ttep_ep3","runTime":null},{"episodeName":"Fish","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTQ5OTQyODc3NV5BMl5BanBnXkFtZTgwMjE3NjE1NTE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"2 Nov. 2009","episodeRating":"8.5","imdbLink":"https://www.imdb.com/title/tt1561892/?ref_=ttep_ep4","runTime":"1h 1min"},{"episodeName":"Birds","imageUrl":"https://m.media-amazon.com/images/M/MV5BNjg3NTkwMjgyM15BMl5BanBnXkFtZTgwNzkzMTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"9 Nov. 2009","episodeRating":"8.4","imdbLink":"https://www.imdb.com/title/tt1561890/?ref_=ttep_ep5","runTime":"1h 2min"},{"episodeName":"Insects","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTU2NDU3NDQ5Nl5BMl5BanBnXkFtZTgwMTkzMTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"16 Nov. 2009","episodeRating":"8.6","imdbLink":"https://www.imdb.com/title/tt1561894/?ref_=ttep_ep6","runTime":null},{"episodeName":"Hunters and Hunted","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTUzNDgwMTc0NV5BMl5BanBnXkFtZTgwNDA0MTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"23 Nov. 2009","episodeRating":"8.4","imdbLink":"https://www.imdb.com/title/tt1561893/?ref_=ttep_ep7","runTime":"1h 1min"},{"episodeName":"Creatures of the Deep","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTc1ODY2ODEzM15BMl5BanBnXkFtZTgwODkzMTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"30 Nov. 2009","episodeRating":"8.6","imdbLink":"https://www.imdb.com/title/tt1561891/?ref_=ttep_ep8","runTime":null},{"episodeName":"Plants","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTk3ODE0ODA4NV5BMl5BanBnXkFtZTgwNjkzMTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"7 Dec. 2009","episodeRating":"8.7","imdbLink":"https://www.imdb.com/title/tt1561896/?ref_=ttep_ep9","runTime":"1h 1min"},{"episodeName":"Primates","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTQ3MzQ4NjYxNF5BMl5BanBnXkFtZTgwNzQ3MTk0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"14 Dec. 2009","episodeRating":"8.6","imdbLink":"https://www.imdb.com/title/tt1575290/?ref_=ttep_ep10","runTime":"1h 2min"},{"episodeName":"The Making of Life","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTQ3MzQ4NjYxNF5BMl5BanBnXkFtZTgwNzQ3MTk0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"11 Jan. 2009","episodeRating":"8.6","imdbLink":"https://www.imdb.com/title/tt10461030/?ref_=ttep_ep11","runTime":"7h 53min"}]}]}
+{
+    "name": "Life",
+    "seasons": [
+        {
+            "season": "Season 1",
+            "episodes": [
+                {
+                    "episodeName": "Challenges of Life",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTA2Mjg4MjA5MjReQTJeQWpwZ15BbWU4MDM3NzE4NDIx._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "12 Oct. 2009",
+                    "episodeRating": "8.8",
+                    "imdbLink": "https://www.imdb.com/title/tt1535233/?ref_=ttep_ep1",
+                    "runTime": "43min"
+                },
+                {
+                    "episodeName": "Reptiles & Amphibians",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjg5MzI3MzAyNl5BMl5BanBnXkFtZTgwMjA2MDk0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "19 Oct. 2009",
+                    "episodeRating": "8.7",
+                    "imdbLink": "https://www.imdb.com/title/tt1558023/?ref_=ttep_ep2",
+                    "runTime": "1h 2min"
+                },
+                {
+                    "episodeName": "Mammals",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg3NDUzMzgyNF5BMl5BanBnXkFtZTgwMzkzMTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "26 Oct. 2009",
+                    "episodeRating": "8.5",
+                    "imdbLink": "https://www.imdb.com/title/tt1561895/?ref_=ttep_ep3",
+                    "runTime": "1h 2min"
+                },
+                {
+                    "episodeName": "Fish",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ5OTQyODc3NV5BMl5BanBnXkFtZTgwMjE3NjE1NTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "2 Nov. 2009",
+                    "episodeRating": "8.5",
+                    "imdbLink": "https://www.imdb.com/title/tt1561892/?ref_=ttep_ep4",
+                    "runTime": "1h 1min"
+                },
+                {
+                    "episodeName": "Birds",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjg3NTkwMjgyM15BMl5BanBnXkFtZTgwNzkzMTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "9 Nov. 2009",
+                    "episodeRating": "8.4",
+                    "imdbLink": "https://www.imdb.com/title/tt1561890/?ref_=ttep_ep5",
+                    "runTime": "1h 2min"
+                },
+                {
+                    "episodeName": "Insects",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU2NDU3NDQ5Nl5BMl5BanBnXkFtZTgwMTkzMTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "16 Nov. 2009",
+                    "episodeRating": "8.6",
+                    "imdbLink": "https://www.imdb.com/title/tt1561894/?ref_=ttep_ep6",
+                    "runTime": "1h 2min"
+                },
+                {
+                    "episodeName": "Hunters and Hunted",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTUzNDgwMTc0NV5BMl5BanBnXkFtZTgwNDA0MTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "23 Nov. 2009",
+                    "episodeRating": "8.4",
+                    "imdbLink": "https://www.imdb.com/title/tt1561893/?ref_=ttep_ep7",
+                    "runTime": "1h 1min"
+                },
+                {
+                    "episodeName": "Creatures of the Deep",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc1ODY2ODEzM15BMl5BanBnXkFtZTgwODkzMTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "30 Nov. 2009",
+                    "episodeRating": "8.6",
+                    "imdbLink": "https://www.imdb.com/title/tt1561891/?ref_=ttep_ep8",
+                    "runTime": "1h 2min"
+                },
+                {
+                    "episodeName": "Plants",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk3ODE0ODA4NV5BMl5BanBnXkFtZTgwNjkzMTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "7 Dec. 2009",
+                    "episodeRating": "8.7",
+                    "imdbLink": "https://www.imdb.com/title/tt1561896/?ref_=ttep_ep9",
+                    "runTime": "1h 1min"
+                },
+                {
+                    "episodeName": "Primates",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ3MzQ4NjYxNF5BMl5BanBnXkFtZTgwNzQ3MTk0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "14 Dec. 2009",
+                    "episodeRating": "8.6",
+                    "imdbLink": "https://www.imdb.com/title/tt1575290/?ref_=ttep_ep10",
+                    "runTime": "1h 2min"
+                },
+                {
+                    "episodeName": "The Making of Life",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ3MzQ4NjYxNF5BMl5BanBnXkFtZTgwNzQ3MTk0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "11 Jan. 2009",
+                    "episodeRating": "8.6",
+                    "imdbLink": "https://www.imdb.com/title/tt10461030/?ref_=ttep_ep11",
+                    "runTime": "7h 53min"
+                }
+            ]
+        }
+    ]
+}

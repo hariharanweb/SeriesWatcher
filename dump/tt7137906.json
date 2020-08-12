@@ -1,0 +1,42 @@
+{
+    "name": "When They See Us",
+    "seasons": [
+        {
+            "season": "Season 1",
+            "episodes": [
+                {
+                    "episodeName": "Part One",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDg2NDMzNDctYTk4My00MDM4LWJkYzQtZmM2YjUxZjUyYTJjXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "31 May 2019",
+                    "episodeRating": "9.0",
+                    "imdbLink": "https://www.imdb.com/title/tt8805234/?ref_=ttep_ep1",
+                    "runTime": "1h 4min"
+                },
+                {
+                    "episodeName": "Part Two",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTI2ZmQ2MjctOTA4ZS00Y2M1LTk0OWUtYjk2ZWNhYzcyNzVjXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "31 May 2019",
+                    "episodeRating": "9.1",
+                    "imdbLink": "https://www.imdb.com/title/tt8805238/?ref_=ttep_ep2",
+                    "runTime": "1h 11min"
+                },
+                {
+                    "episodeName": "Part Three",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA4YWYzYzEtMzRhZC00MDhlLTgyM2QtNmJiZDk5YzAzMzk1XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+                    "airDate": "31 May 2019",
+                    "episodeRating": "8.5",
+                    "imdbLink": "https://www.imdb.com/title/tt8805240/?ref_=ttep_ep3",
+                    "runTime": "1h 13min"
+                },
+                {
+                    "episodeName": "Part Four",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDA0N2JjY2UtZTg0MC00NmQ0LThkMzItYWZjNGEzODRmMzVkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "31 May 2019",
+                    "episodeRating": "9.6",
+                    "imdbLink": "https://www.imdb.com/title/tt8805244/?ref_=ttep_ep4",
+                    "runTime": "1h 11min"
+                }
+            ]
+        }
+    ]
+}

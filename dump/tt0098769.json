@@ -1,0 +1,82 @@
+{
+    "name": "The American Civil War",
+    "seasons": [
+        {
+            "season": "Season 1",
+            "episodes": [
+                {
+                    "episodeName": "The Cause (1861)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjExNTg4NjI3N15BMl5BanBnXkFtZTgwMjA2ODc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "23 Sep. 1990",
+                    "episodeRating": "8.6",
+                    "imdbLink": "https://www.imdb.com/title/tt1066646/?ref_=ttep_ep1",
+                    "runTime": "1h 40min"
+                },
+                {
+                    "episodeName": "A Very Bloody Affair (1862)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzU2Mzk1NTg4NF5BMl5BanBnXkFtZTgwNjk1ODc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "24 Sep. 1990",
+                    "episodeRating": "8.4",
+                    "imdbLink": "https://www.imdb.com/title/tt1066641/?ref_=ttep_ep2",
+                    "runTime": "1h 9min"
+                },
+                {
+                    "episodeName": "Forever Free (1862)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQzNDg1NTA2MV5BMl5BanBnXkFtZTgwNzk1ODc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "24 Sep. 1990",
+                    "episodeRating": "8.4",
+                    "imdbLink": "https://www.imdb.com/title/tt1066642/?ref_=ttep_ep3",
+                    "runTime": "1h 16min"
+                },
+                {
+                    "episodeName": "Simply Murder (1863)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ3NzY3ODQwM15BMl5BanBnXkFtZTgwMDA2ODc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "25 Sep. 1990",
+                    "episodeRating": "8.5",
+                    "imdbLink": "https://www.imdb.com/title/tt1066644/?ref_=ttep_ep4",
+                    "runTime": "1h 1min"
+                },
+                {
+                    "episodeName": "The Universe of Battle (1863)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjE2Mjc3MDY5OF5BMl5BanBnXkFtZTgwNDA2ODc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "25 Sep. 1990",
+                    "episodeRating": "8.8",
+                    "imdbLink": "https://www.imdb.com/title/tt1066647/?ref_=ttep_ep5",
+                    "runTime": "1h 36min"
+                },
+                {
+                    "episodeName": "Valley of the Shadow of Death (1864)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY5OTEwMjgyOF5BMl5BanBnXkFtZTgwNTA2ODc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "26 Sep. 1990",
+                    "episodeRating": "8.6",
+                    "imdbLink": "https://www.imdb.com/title/tt1066648/?ref_=ttep_ep6",
+                    "runTime": "1h 9min"
+                },
+                {
+                    "episodeName": "Most Hallowed Ground (1864)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjc1MDU5OTU3Nl5BMl5BanBnXkFtZTgwOTk1ODc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "26 Sep. 1990",
+                    "episodeRating": "8.5",
+                    "imdbLink": "https://www.imdb.com/title/tt1066643/?ref_=ttep_ep7",
+                    "runTime": "1h 12min"
+                },
+                {
+                    "episodeName": "War Is All Hell (1865)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ0NTE3NTk3M15BMl5BanBnXkFtZTgwNjA2ODc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "27 Sep. 1990",
+                    "episodeRating": "8.8",
+                    "imdbLink": "https://www.imdb.com/title/tt1066649/?ref_=ttep_ep8",
+                    "runTime": "1h 9min"
+                },
+                {
+                    "episodeName": "The Better Angels of Our Nature (1865)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjkyMjk4MTM3OF5BMl5BanBnXkFtZTgwMTA2ODc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "27 Sep. 1990",
+                    "episodeRating": "8.8",
+                    "imdbLink": "https://www.imdb.com/title/tt1066645/?ref_=ttep_ep9",
+                    "runTime": "1h 8min"
+                }
+            ]
+        }
+    ]
+}

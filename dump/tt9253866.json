@@ -18,7 +18,7 @@
           "airDate": "5 Apr. 2019",
           "episodeRating": "9.2",
           "imdbLink": "https://www.imdb.com/title/tt9253870/?ref_=ttep_ep2",
-          "runTime": null
+          "runTime": "50min"
         },
         {
           "episodeName": "Jungles",
@@ -34,7 +34,7 @@
           "airDate": "5 Apr. 2019",
           "episodeRating": "8.9",
           "imdbLink": "https://www.imdb.com/title/tt9253874/?ref_=ttep_ep4",
-          "runTime": null
+          "runTime": "50min"
         },
         {
           "episodeName": "From Deserts to Grasslands",
@@ -50,7 +50,7 @@
           "airDate": "5 Apr. 2019",
           "episodeRating": "9.0",
           "imdbLink": "https://www.imdb.com/title/tt9253878/?ref_=ttep_ep6",
-          "runTime": null
+          "runTime": "50min"
         },
         {
           "episodeName": "Fresh Water",
@@ -66,7 +66,7 @@
           "airDate": "5 Apr. 2019",
           "episodeRating": "9.1",
           "imdbLink": "https://www.imdb.com/title/tt9253882/?ref_=ttep_ep8",
-          "runTime": null
+          "runTime": "50min"
         }
       ]
     }

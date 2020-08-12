@@ -1,0 +1,50 @@
+{
+    "name": "TVF Pitchers",
+    "seasons": [
+        {
+            "season": "Season 1",
+            "episodes": [
+                {
+                    "episodeName": "Tu Beer Hai",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWZlY2I4YmEtMDc3Yy00ZGI2LTg1YmQtYTViZmVmNjUzMjg0XkEyXkFqcGdeQXVyNjM0MjIzNA@@._V1_UY126_UX224_AL_.jpg",
+                    "airDate": "3 Jun. 2015",
+                    "episodeRating": "9.1",
+                    "imdbLink": "https://www.imdb.com/title/tt4766188/?ref_=ttep_ep1",
+                    "runTime": "39min"
+                },
+                {
+                    "episodeName": "And Then There Were Four",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTdjZDUwYzktZTI0YS00NDU5LTk1NDktYjQxMWQyOGMxOGZhXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY126_UX224_AL_.jpg",
+                    "airDate": "17 Jun. 2015",
+                    "episodeRating": "8.9",
+                    "imdbLink": "https://www.imdb.com/title/tt4773132/?ref_=ttep_ep2",
+                    "runTime": "33min"
+                },
+                {
+                    "episodeName": "The Jury Room",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjJmYmU2NjktOWNjOS00YzdkLWE2YWUtNjQ5ZjUzM2MyNmI2XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY126_UX224_AL_.jpg",
+                    "airDate": "1 Jul. 2015",
+                    "episodeRating": "9.1",
+                    "imdbLink": "https://www.imdb.com/title/tt4773134/?ref_=ttep_ep3",
+                    "runTime": "45min"
+                },
+                {
+                    "episodeName": "Bulb Jalega Boss",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTRiZmJkMjYtYWE3MC00ZmMyLWE4YWQtNjBkZTE4NjBkZGYyXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY126_UX224_AL_.jpg",
+                    "airDate": "15 Jul. 2015",
+                    "episodeRating": "9.2",
+                    "imdbLink": "https://www.imdb.com/title/tt4773136/?ref_=ttep_ep4",
+                    "runTime": "39min"
+                },
+                {
+                    "episodeName": "Where Magic Happens",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTU0ZTE3ZmQtZDk3Ny00Njg3LWIyZWItZmQ5Y2U1YjJkMDk1XkEyXkFqcGdeQXVyNTA4OTk2MzY@._V1_UY126_UX224_AL_.jpg",
+                    "airDate": "30 Aug. 2015",
+                    "episodeRating": "9.4",
+                    "imdbLink": "https://www.imdb.com/title/tt4982780/?ref_=ttep_ep5",
+                    "runTime": "40min"
+                }
+            ]
+        }
+    ]
+}

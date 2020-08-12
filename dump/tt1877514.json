@@ -1,1 +1,90 @@
-{"name":"The Vietnam War","seasons":[{"season":"Season 1","episodes":[{"episodeName":"Déjà Vu (1858-1961)","imageUrl":"https://m.media-amazon.com/images/M/MV5BZjc0ZDE2MjAtZDU5ZS00MzE2LWFjMTYtMjk5MGUxMzdmYWMwXkEyXkFqcGdeQXVyODAxMzczMjg@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"17 Sep. 2017","episodeRating":"8.5","imdbLink":"https://www.imdb.com/title/tt4026132/?ref_=ttep_ep1","runTime":"1h 21min"},{"episodeName":"Riding the Tiger (1961-1963)","imageUrl":"https://m.media-amazon.com/images/M/MV5BMmExNmUzNzktMzJkNi00NTQ0LTlhOGUtOTA1NzU3ZjY3MzY5XkEyXkFqcGdeQXVyODAxMzczMjg@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"18 Sep. 2017","episodeRating":"8.5","imdbLink":"https://www.imdb.com/title/tt5733734/?ref_=ttep_ep2","runTime":null},{"episodeName":"The River Styx (January 1964-December 1965)","imageUrl":"https://m.media-amazon.com/images/M/MV5BZmE0Mzc3ZDQtYjFjOC00ZjY0LTg5ZDgtNGVjMWNlNmRhODE1XkEyXkFqcGdeQXVyMTY2NTEyMTY@._V1_UY126_UX224_AL_.jpg","airDate":"19 Sep. 2017","episodeRating":"8.6","imdbLink":"https://www.imdb.com/title/tt5734246/?ref_=ttep_ep3","runTime":"1h 54min"},{"episodeName":"Resolve (January 1966-June 1967)","imageUrl":"https://m.media-amazon.com/images/M/MV5BMWE0YjgxNjgtY2VjNy00YjgyLWFhNjYtYmMyMWZkNmVjNGY2XkEyXkFqcGdeQXVyODAxMzczMjg@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"20 Sep. 2017","episodeRating":"8.5","imdbLink":"https://www.imdb.com/title/tt5734256/?ref_=ttep_ep4","runTime":"1h 53min"},{"episodeName":"This Is What We Do (July-December 1967)","imageUrl":"https://m.media-amazon.com/images/M/MV5BZWMyZWE3NWUtMzQ1NC00NDBhLWFhZGEtZWNhM2UwMzI4NmJiXkEyXkFqcGdeQXVyODAxMzczMjg@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"21 Sep. 2017","episodeRating":"8.6","imdbLink":"https://www.imdb.com/title/tt5734268/?ref_=ttep_ep5","runTime":null},{"episodeName":"Things Fall Apart (January-June 1968)","imageUrl":"https://m.media-amazon.com/images/M/MV5BOTdlYWYxOTYtMThiMS00ZDkzLWIxYTMtMDU2MWExNGE5NjZlXkEyXkFqcGdeQXVyNzkyODU1OTM@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"24 Sep. 2017","episodeRating":"8.8","imdbLink":"https://www.imdb.com/title/tt5734282/?ref_=ttep_ep6","runTime":"1h 24min"},{"episodeName":"The Veneer of Civilization (June 1968-May 1969)","imageUrl":"https://m.media-amazon.com/images/M/MV5BNmI2MjlhMzYtYjI3Yy00MzdiLTlkMDctYjlkZDRhYTM1ZTQ3XkEyXkFqcGdeQXVyODAxMzczMjg@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"25 Sep. 2017","episodeRating":"8.5","imdbLink":"https://www.imdb.com/title/tt5734290/?ref_=ttep_ep7","runTime":null},{"episodeName":"The History of the World (April 1969-May 1970)","imageUrl":"https://m.media-amazon.com/images/M/MV5BMDM2YmFjNDktNjY1MS00NmQ1LTg3MTktYWNhN2ZlZWQ3MGYwXkEyXkFqcGdeQXVyODAxMzczMjg@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"26 Sep. 2017","episodeRating":"8.6","imdbLink":"https://www.imdb.com/title/tt5734298/?ref_=ttep_ep8","runTime":"1h 48min"},{"episodeName":"A Disrespectful Loyalty (May 1970-March 1973)","imageUrl":"https://m.media-amazon.com/images/M/MV5BZDlhYjdhMzUtOTE4YS00MDBhLWE5MTUtYWM4ODVmYWFjYjFjXkEyXkFqcGdeQXVyODAxMzczMjg@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"27 Sep. 2017","episodeRating":"8.6","imdbLink":"https://www.imdb.com/title/tt5734312/?ref_=ttep_ep9","runTime":null},{"episodeName":"The Weight of Memory (March 1973 - Onward)","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTA1ODAxMjE2NjVeQTJeQWpwZ15BbWU4MDcyNzk1MDIy._V1_UY126_UX224_AL_.jpg","airDate":"28 Sep. 2017","episodeRating":"8.7","imdbLink":"https://www.imdb.com/title/tt5734330/?ref_=ttep_ep10","runTime":"1h 47min"}]}]}
+{
+    "name": "The Vietnam War",
+    "seasons": [
+        {
+            "season": "Season 1",
+            "episodes": [
+                {
+                    "episodeName": "Déjà Vu (1858-1961)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjc0ZDE2MjAtZDU5ZS00MzE2LWFjMTYtMjk5MGUxMzdmYWMwXkEyXkFqcGdeQXVyODAxMzczMjg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "17 Sep. 2017",
+                    "episodeRating": "8.5",
+                    "imdbLink": "https://www.imdb.com/title/tt4026132/?ref_=ttep_ep1",
+                    "runTime": "1h 21min"
+                },
+                {
+                    "episodeName": "Riding the Tiger (1961-1963)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmExNmUzNzktMzJkNi00NTQ0LTlhOGUtOTA1NzU3ZjY3MzY5XkEyXkFqcGdeQXVyODAxMzczMjg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "18 Sep. 2017",
+                    "episodeRating": "8.5",
+                    "imdbLink": "https://www.imdb.com/title/tt5733734/?ref_=ttep_ep2",
+                    "runTime": "1h 47min"
+                },
+                {
+                    "episodeName": "The River Styx (January 1964-December 1965)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmE0Mzc3ZDQtYjFjOC00ZjY0LTg5ZDgtNGVjMWNlNmRhODE1XkEyXkFqcGdeQXVyMTY2NTEyMTY@._V1_UY126_UX224_AL_.jpg",
+                    "airDate": "19 Sep. 2017",
+                    "episodeRating": "8.6",
+                    "imdbLink": "https://www.imdb.com/title/tt5734246/?ref_=ttep_ep3",
+                    "runTime": "1h 54min"
+                },
+                {
+                    "episodeName": "Resolve (January 1966-June 1967)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWE0YjgxNjgtY2VjNy00YjgyLWFhNjYtYmMyMWZkNmVjNGY2XkEyXkFqcGdeQXVyODAxMzczMjg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "20 Sep. 2017",
+                    "episodeRating": "8.5",
+                    "imdbLink": "https://www.imdb.com/title/tt5734256/?ref_=ttep_ep4",
+                    "runTime": "1h 53min"
+                },
+                {
+                    "episodeName": "This Is What We Do (July-December 1967)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWMyZWE3NWUtMzQ1NC00NDBhLWFhZGEtZWNhM2UwMzI4NmJiXkEyXkFqcGdeQXVyODAxMzczMjg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "21 Sep. 2017",
+                    "episodeRating": "8.6",
+                    "imdbLink": "https://www.imdb.com/title/tt5734268/?ref_=ttep_ep5",
+                    "runTime": "1h 47min"
+                },
+                {
+                    "episodeName": "Things Fall Apart (January-June 1968)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTdlYWYxOTYtMThiMS00ZDkzLWIxYTMtMDU2MWExNGE5NjZlXkEyXkFqcGdeQXVyNzkyODU1OTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "24 Sep. 2017",
+                    "episodeRating": "8.8",
+                    "imdbLink": "https://www.imdb.com/title/tt5734282/?ref_=ttep_ep6",
+                    "runTime": "1h 24min"
+                },
+                {
+                    "episodeName": "The Veneer of Civilization (June 1968-May 1969)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmI2MjlhMzYtYjI3Yy00MzdiLTlkMDctYjlkZDRhYTM1ZTQ3XkEyXkFqcGdeQXVyODAxMzczMjg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "25 Sep. 2017",
+                    "episodeRating": "8.5",
+                    "imdbLink": "https://www.imdb.com/title/tt5734290/?ref_=ttep_ep7",
+                    "runTime": "1h 47min"
+                },
+                {
+                    "episodeName": "The History of the World (April 1969-May 1970)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDM2YmFjNDktNjY1MS00NmQ1LTg3MTktYWNhN2ZlZWQ3MGYwXkEyXkFqcGdeQXVyODAxMzczMjg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "26 Sep. 2017",
+                    "episodeRating": "8.6",
+                    "imdbLink": "https://www.imdb.com/title/tt5734298/?ref_=ttep_ep8",
+                    "runTime": "1h 48min"
+                },
+                {
+                    "episodeName": "A Disrespectful Loyalty (May 1970-March 1973)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDlhYjdhMzUtOTE4YS00MDBhLWE5MTUtYWM4ODVmYWFjYjFjXkEyXkFqcGdeQXVyODAxMzczMjg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "27 Sep. 2017",
+                    "episodeRating": "8.6",
+                    "imdbLink": "https://www.imdb.com/title/tt5734312/?ref_=ttep_ep9",
+                    "runTime": "1h 47min"
+                },
+                {
+                    "episodeName": "The Weight of Memory (March 1973 - Onward)",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTA1ODAxMjE2NjVeQTJeQWpwZ15BbWU4MDcyNzk1MDIy._V1_UY126_UX224_AL_.jpg",
+                    "airDate": "28 Sep. 2017",
+                    "episodeRating": "8.7",
+                    "imdbLink": "https://www.imdb.com/title/tt5734330/?ref_=ttep_ep10",
+                    "runTime": "1h 47min"
+                }
+            ]
+        }
+    ]
+}

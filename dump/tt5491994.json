@@ -18,7 +18,7 @@
           "airDate": "25 Feb. 2017",
           "episodeRating": "9.0",
           "imdbLink": "https://www.imdb.com/title/tt6209126/?ref_=ttep_ep2",
-          "runTime": null
+          "runTime": "51min"
         },
         {
           "episodeName": "Jungles",
@@ -34,7 +34,7 @@
           "airDate": "11 Mar. 2017",
           "episodeRating": "8.7",
           "imdbLink": "https://www.imdb.com/title/tt6209134/?ref_=ttep_ep4",
-          "runTime": null
+          "runTime": "51min"
         },
         {
           "episodeName": "Grasslands",
@@ -50,7 +50,7 @@
           "airDate": "25 Mar. 2017",
           "episodeRating": "8.7",
           "imdbLink": "https://www.imdb.com/title/tt6209144/?ref_=ttep_ep6",
-          "runTime": null
+          "runTime": "51min"
         }
       ]
     }
