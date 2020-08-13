@@ -7,5 +7,3 @@ module.exports.getImgSrc = async element => {
 module.exports.getHref = async element => {
     return await evaluate(element, elem => { return elem.href })
 }
-
-// getHref = async element => { return await evaluate(element, elem => { return elem.href })}
