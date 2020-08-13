@@ -68,7 +68,7 @@ const getTimeForEpisode = async url => {
             )
         }
         fs.writeFileSync(`./dump/${seriesId}.json`, JSON.stringify(details));
-        fs.writeFileSync(`./dump/failed.json`, JSON.stringify(failedURLs));
+        fs.writeFileSync(`./dump/failed${seriesId}.json`, JSON.stringify(failedURLs));
     } catch (error) {
         console.error(error)
         console.error("Failed for series",seriesId);
