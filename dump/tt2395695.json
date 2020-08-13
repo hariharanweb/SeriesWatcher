@@ -1,0 +1,114 @@
+{
+  "name": "Cosmos: A Spacetime Odyssey",
+  "seasons": [
+    {
+      "season": "Season 1",
+      "episodes": [
+        {
+          "episodeName": "Standing Up in the Milky Way",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQwMzM5MzQwN15BMl5BanBnXkFtZTgwNjM3OTQzMTE@._V1_UY126_CR0,0,224,126_AL_.jpg",
+          "airDate": "9 Mar. 2014",
+          "episodeRating": "9.2",
+          "imdbLink": "https://www.imdb.com/title/tt2823278/?ref_=ttep_ep1",
+          "runTime": "44min"
+        },
+        {
+          "episodeName": "Some of the Things That Molecules Do",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzQ1MjIwNjMyN15BMl5BanBnXkFtZTgwNjM0Mjg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "16 Mar. 2014",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt2987754/?ref_=ttep_ep2",
+          "runTime": "44min"
+        },
+        {
+          "episodeName": "When Knowledge Conquered Fear",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjQ0MzM2OTY3OV5BMl5BanBnXkFtZTgwODQ1OTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "23 Mar. 2014",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt3120698/?ref_=ttep_ep3",
+          "runTime": "44min"
+        },
+        {
+          "episodeName": "A Sky Full of Ghosts",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTAyMDkxNjIzODNeQTJeQWpwZ15BbWU4MDgzNTk4NDIx._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "30 Mar. 2014",
+          "episodeRating": "9.2",
+          "imdbLink": "https://www.imdb.com/title/tt3120704/?ref_=ttep_ep4",
+          "runTime": "44min"
+        },
+        {
+          "episodeName": "Hiding in the Light",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTU1NDcwMTI4Ml5BMl5BanBnXkFtZTgwNzYyNjg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "6 Apr. 2014",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt3281198/?ref_=ttep_ep5",
+          "runTime": "44min"
+        },
+        {
+          "episodeName": "Deeper, Deeper, Deeper Still",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYyMzI0MjUzNV5BMl5BanBnXkFtZTgwMTM1OTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "13 Apr. 2014",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt3120706/?ref_=ttep_ep6",
+          "runTime": "44min"
+        },
+        {
+          "episodeName": "The Clean Room",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY5NDgwNDEyNV5BMl5BanBnXkFtZTgwNDc0Mjk0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "20 Apr. 2014",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt3410940/?ref_=ttep_ep7",
+          "runTime": "43min"
+        },
+        {
+          "episodeName": "Sisters of the Sun",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjIyNjU1MjIxOV5BMl5BanBnXkFtZTgwNzc0NDg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "27 Apr. 2014",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt2854226/?ref_=ttep_ep8",
+          "runTime": "42min"
+        },
+        {
+          "episodeName": "The Lost Worlds of Planet Earth",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU0MDY1Nzk5NV5BMl5BanBnXkFtZTgwNzI1OTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "4 May 2014",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt3120710/?ref_=ttep_ep9",
+          "runTime": "43min"
+        },
+        {
+          "episodeName": "The Electric Boy",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY0NDA2ODg0Nl5BMl5BanBnXkFtZTgwOTQwMzg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "11 May 2014",
+          "episodeRating": "9.2",
+          "imdbLink": "https://www.imdb.com/title/tt3475584/?ref_=ttep_ep10",
+          "runTime": "41min"
+        },
+        {
+          "episodeName": "The Immortals",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzYwNTIzNzY3Nl5BMl5BanBnXkFtZTgwMTYwMzg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "18 May 2014",
+          "episodeRating": "9.2",
+          "imdbLink": "https://www.imdb.com/title/tt3475586/?ref_=ttep_ep11",
+          "runTime": "42min"
+        },
+        {
+          "episodeName": "The World Set Free",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYwMjI1MjA1MF5BMl5BanBnXkFtZTgwOTM1OTg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "1 Jun. 2014",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt3120712/?ref_=ttep_ep12",
+          "runTime": "41min"
+        },
+        {
+          "episodeName": "Unafraid of the Dark",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQyNjk5ODQ3NV5BMl5BanBnXkFtZTgwNzQwMzg0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "8 Jun. 2014",
+          "episodeRating": "9.5",
+          "imdbLink": "https://www.imdb.com/title/tt3475588/?ref_=ttep_ep13",
+          "runTime": "43min"
+        }
+      ]
+    }
+  ]
+}

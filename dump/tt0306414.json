@@ -1,0 +1,510 @@
+{
+  "name": "The Wire",
+  "seasons": [
+    {
+      "season": "Season 5",
+      "episodes": [
+        {
+          "episodeName": "More with Less",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGUyMWY3MmQtYzY5ZS00MTA2LTkxYjUtMGRkMTVhYWNmMDViXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "6 Jan. 2008",
+          "episodeRating": "8.2",
+          "imdbLink": "https://www.imdb.com/title/tt0977178/?ref_=ttep_ep1",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Unconfirmed Reports",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWYxOWMxYTEtYTI5YS00N2ZlLWE0MjUtMzIxYjAwOWQzYWJlXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "13 Jan. 2008",
+          "episodeRating": "8.3",
+          "imdbLink": "https://www.imdb.com/title/tt0985516/?ref_=ttep_ep2",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Not for Attribution",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQzNGM3NmEtZmRhZC00NmI3LTg5YzQtM2VhZTBmODI0Zjg1XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "20 Jan. 2008",
+          "episodeRating": "8.6",
+          "imdbLink": "https://www.imdb.com/title/tt0977180/?ref_=ttep_ep3",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Transitions",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmQ4ZmNiZTQtMDJiMC00NjcwLTgwOWItOGM0MjJhNjY1NjY4XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "27 Jan. 2008",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt0977181/?ref_=ttep_ep4",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "React Quotes",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDk1OTQ4NWMtOTdiZi00MmQ3LTkzNDgtYWJlYzNiNmZiYTVjXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "3 Feb. 2008",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt0977182/?ref_=ttep_ep5",
+          "runTime": "57min"
+        },
+        {
+          "episodeName": "The Dickensian Aspect",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzlmZDkxN2YtNzM2NC00ZGE2LThhNmUtZDE5OWM1YzRjNGMxXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "10 Feb. 2008",
+          "episodeRating": "8.5",
+          "imdbLink": "https://www.imdb.com/title/tt0977183/?ref_=ttep_ep6",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Took",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGNlMWI0YjktOTUwMS00NTYxLWFjYmQtMjc2ZjMwNTI5MTg2XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "17 Feb. 2008",
+          "episodeRating": "8.6",
+          "imdbLink": "https://www.imdb.com/title/tt0977184/?ref_=ttep_ep7",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Clarifications",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTFjMDNmNWUtNDUyYS00YzM3LTk4NTgtMzVlNDA2YTYzNmRlXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "24 Feb. 2008",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt0977185/?ref_=ttep_ep8",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Late Editions",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzUyMjdiODEtMTc2My00YTNhLTg1N2MtMzA5OGEwNGNiMTIwXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "2 Mar. 2008",
+          "episodeRating": "9.3",
+          "imdbLink": "https://www.imdb.com/title/tt0977186/?ref_=ttep_ep9",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "-30-",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2QzZmNkOWEtOGU5Yy00NWQwLTkyMDQtMDBkZDZmYjRmYjgxXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "9 Mar. 2008",
+          "episodeRating": "9.6",
+          "imdbLink": "https://www.imdb.com/title/tt0977179/?ref_=ttep_ep10",
+          "runTime": "1h 33min"
+        }
+      ]
+    },
+    {
+      "season": "Season 4",
+      "episodes": [
+        {
+          "episodeName": "Boys of Summer",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTY5Njc4MzQtMGZjMC00YWYxLTgwMmItMjA4NzZiOGYyNTk5XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "10 Sep. 2006",
+          "episodeRating": "8.5",
+          "imdbLink": "https://www.imdb.com/title/tt0763093/?ref_=ttep_ep1",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Soft Eyes",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTZiZDdkNDAtZGU5Yy00Zjc1LWEwN2ItYzk1NTE1NjllODY1XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "17 Sep. 2006",
+          "episodeRating": "8.6",
+          "imdbLink": "https://www.imdb.com/title/tt0763095/?ref_=ttep_ep2",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Home Rooms",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmIyMjY0Y2MtOTg4Yi00NGRjLTg3YmEtMjA4ODgwMzQ5NDc1XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "24 Sep. 2006",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt0763096/?ref_=ttep_ep3",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Refugees",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmQzYWViNWEtMjlmNC00OThiLTk4ZjgtM2YzMzA0OTRmNjczXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "1 Oct. 2006",
+          "episodeRating": "8.5",
+          "imdbLink": "https://www.imdb.com/title/tt0763097/?ref_=ttep_ep4",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Alliances",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWI3NzQ5ZjktN2E0ZC00MTZhLTlmNDQtMmQyYjU5YzgzMGFlXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "8 Oct. 2006",
+          "episodeRating": "8.6",
+          "imdbLink": "https://www.imdb.com/title/tt0763098/?ref_=ttep_ep5",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Margin of Error",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDQ4NGM2OTgtNTJjZS00NWJhLTk0ODktOGE5ZDJlZGU5MjQ0XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "15 Oct. 2006",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0763099/?ref_=ttep_ep6",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Unto Others",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjYyNzk2ODktYjE5NC00NGQ1LThiZjAtNWFhZTY2MWQ4N2ZiXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "29 Oct. 2006",
+          "episodeRating": "8.6",
+          "imdbLink": "https://www.imdb.com/title/tt0758650/?ref_=ttep_ep7",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Corner Boys",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTY0NjExZjAtN2YyYy00NTU4LWEzNTktM2I2M2Q3YWZjZmViXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "5 Nov. 2006",
+          "episodeRating": "8.6",
+          "imdbLink": "https://www.imdb.com/title/tt0796549/?ref_=ttep_ep8",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Know Your Place",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjY0OGVlNTYtNzI0MC00YTU5LThlZmUtMDY0NmVmMTM5MmZjXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "12 Nov. 2006",
+          "episodeRating": "8.6",
+          "imdbLink": "https://www.imdb.com/title/tt0763100/?ref_=ttep_ep9",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Misgivings",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjZjYzAxYjYtMTc2NC00YTM2LWE2ZTktOTE5MmUxYzEzNWU5XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "19 Nov. 2006",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt0763094/?ref_=ttep_ep10",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "A New Day",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDAyNzk5OWEtMDg3MC00NDM1LWI5NjUtYzQ1NDBhYzZmMTZhXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "26 Nov. 2006",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt0782660/?ref_=ttep_ep11",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "That's Got His Own",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjk4OGM1NDktMzAzOC00YTBjLTkzMmUtNGVlNGE4ZDcyNTY5XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "3 Dec. 2006",
+          "episodeRating": "9.3",
+          "imdbLink": "https://www.imdb.com/title/tt0796551/?ref_=ttep_ep12",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Final Grades",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTg5MmQ0ZjktODNjNC00NTgzLThmNDUtNjNmNDBjNTA1YmNiXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "10 Dec. 2006",
+          "episodeRating": "9.5",
+          "imdbLink": "https://www.imdb.com/title/tt0796550/?ref_=ttep_ep13",
+          "runTime": "1h 19min"
+        }
+      ]
+    },
+    {
+      "season": "Season 3",
+      "episodes": [
+        {
+          "episodeName": "Time After Time",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzJjYzA2NTItYzE1OC00NGQ2LWE1ODMtMzBlNWZmODI3NmIxXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "19 Sep. 2004",
+          "episodeRating": "8.2",
+          "imdbLink": "https://www.imdb.com/title/tt0749453/?ref_=ttep_ep1",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "All Due Respect",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjZjMGIzOTctOTg3My00NDNhLWFjOWQtZjJlNGVjMzU2ZjQ0XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "26 Sep. 2004",
+          "episodeRating": "8.5",
+          "imdbLink": "https://www.imdb.com/title/tt0749418/?ref_=ttep_ep2",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Dead Soldiers",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTRhZDk0NTYtNTQ4Yi00ZGE3LWE0YWYtOTk3MjY2MGIxMTQ0XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "3 Oct. 2004",
+          "episodeRating": "8.5",
+          "imdbLink": "https://www.imdb.com/title/tt0749426/?ref_=ttep_ep3",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Hamsterdam",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGNjYTQyOGUtZjg5ZC00MDIyLWFhMzgtYTFjMGVmNDU2ZGYxXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "10 Oct. 2004",
+          "episodeRating": "8.5",
+          "imdbLink": "https://www.imdb.com/title/tt0749420/?ref_=ttep_ep4",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Straight and True",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzg1NjJiYjMtZGJkYi00YTI1LWEwMjQtN2YxMjQwNmE0OTNmXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "17 Oct. 2004",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt0749444/?ref_=ttep_ep5",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Homecoming",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGJiMWFlOTUtOWIwZS00ZDUxLWEwZjQtZjUxMmNjN2M3NGQ0XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "31 Oct. 2004",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt0749431/?ref_=ttep_ep6",
+          "runTime": "57min"
+        },
+        {
+          "episodeName": "Back Burners",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BODg3M2U1MzgtOTQwZC00MGFmLWI4ZDAtODcxNjUwN2RhMDdkXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "7 Nov. 2004",
+          "episodeRating": "8.6",
+          "imdbLink": "https://www.imdb.com/title/tt0749421/?ref_=ttep_ep7",
+          "runTime": "56min"
+        },
+        {
+          "episodeName": "Moral Midgetry",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYThmNDhmN2UtYTA3NC00NmRkLWE3MTItOTViZWVmOWUzYjU3XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "14 Nov. 2004",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt0749436/?ref_=ttep_ep8",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Slapstick",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmYxZjg1MzYtZDgzYy00MzM0LTljYmEtMGMxYmFkZTAxM2UwXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "21 Nov. 2004",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0749442/?ref_=ttep_ep9",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Reformation",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmVmYWI3OWItMjc4Zi00NWQyLWFmZDQtZjQ4YjgyNDg0NmEzXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "28 Nov. 2004",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0749440/?ref_=ttep_ep10",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Middle Ground",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTM0YmViZTUtNWZjMC00YWVjLWI2NTQtNDc3OTFkZjU5N2UyXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "12 Dec. 2004",
+          "episodeRating": "9.6",
+          "imdbLink": "https://www.imdb.com/title/tt0749434/?ref_=ttep_ep11",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Mission Accomplished",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2YwZmVkMDYtZTdiMi00MmFjLTk2ODAtMjc5ZTlhYWUyYWVkXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "19 Dec. 2004",
+          "episodeRating": "9.3",
+          "imdbLink": "https://www.imdb.com/title/tt0749435/?ref_=ttep_ep12",
+          "runTime": "1h 3min"
+        }
+      ]
+    },
+    {
+      "season": "Season 2",
+      "episodes": [
+        {
+          "episodeName": "Ebb Tide",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTI0ODgwNmEtODQwZC00MWU2LTg5ZmEtMzM3MTcxOTRmYjYzXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "1 Jun. 2003",
+          "episodeRating": "7.9",
+          "imdbLink": "https://www.imdb.com/title/tt0749428/?ref_=ttep_ep1",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Collateral Damage",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmRjYjRkNWQtYjM0OC00NDIzLTk5YjctMTk0M2Q3ZGY1MmMyXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "8 Jun. 2003",
+          "episodeRating": "8.2",
+          "imdbLink": "https://www.imdb.com/title/tt0749425/?ref_=ttep_ep2",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Hot Shots",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2U3MWU3OTItNWZiNi00MWEwLTkzYjMtM2JmYTA4YjUyZGM2XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "15 Jun. 2003",
+          "episodeRating": "8.2",
+          "imdbLink": "https://www.imdb.com/title/tt0749432/?ref_=ttep_ep3",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Hard Cases",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGIxYmU3NmEtYTUyMS00ODc1LWJlYzktNTIwMDBjZGE5NDg0XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "22 Jun. 2003",
+          "episodeRating": "8.2",
+          "imdbLink": "https://www.imdb.com/title/tt0749430/?ref_=ttep_ep4",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Undertow",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzdhZDI0OWEtYjhmNC00OTk5LTg0OWEtMDdlODZhMDllYWYyXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "29 Jun. 2003",
+          "episodeRating": "8.3",
+          "imdbLink": "https://www.imdb.com/title/tt0749454/?ref_=ttep_ep5",
+          "runTime": "57min"
+        },
+        {
+          "episodeName": "All Prologue",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc4YWFiZjMtNDk4Ny00MTVmLTg4YTEtOGJiNTExZTg1ZjQ1XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "6 Jul. 2003",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0749419/?ref_=ttep_ep6",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Backwash",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWU5MzgxMzktNTFhMS00ZTlkLWE1OWMtNWI1NmU0Y2IxYzM4XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "13 Jul. 2003",
+          "episodeRating": "8.4",
+          "imdbLink": "https://www.imdb.com/title/tt0749422/?ref_=ttep_ep7",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Duck and Cover",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTg3MDk4ODUtM2U2NC00YmU1LTk1ODgtZWRjMzNmOTRiY2EzXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "27 Jul. 2003",
+          "episodeRating": "8.5",
+          "imdbLink": "https://www.imdb.com/title/tt0749427/?ref_=ttep_ep8",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Stray Rounds",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTAwMjkyYjEtZGMyZi00YTEyLTgzMTktZjczYTBjM2VkOWZlXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "3 Aug. 2003",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt0749445/?ref_=ttep_ep9",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Storm Warnings",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2JiMzI1M2YtY2UxNi00ODcwLWEwZDAtMTkzZDcwNmJlNjdiXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "10 Aug. 2003",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt0749443/?ref_=ttep_ep10",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Bad Dreams",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGY5ODMzMDAtNzM0Yy00NDg1LWFhZmMtYjMyMWQzYWVhMTAzXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "17 Aug. 2003",
+          "episodeRating": "9.2",
+          "imdbLink": "https://www.imdb.com/title/tt0749423/?ref_=ttep_ep11",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "Port in a Storm",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTJkODg3ZWYtYWExMy00NDM3LWFlMTctMzVmNTkxNjlhNjMzXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "24 Aug. 2003",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt0749439/?ref_=ttep_ep12",
+          "runTime": "1h 3min"
+        }
+      ]
+    },
+    {
+      "season": "Season 1",
+      "episodes": [
+        {
+          "episodeName": "The Target",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjZhYzdlNTMtOTI5MC00NDlkLWI0MDQtN2ZlNDhkOGIzZjdkXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "2 Jun. 2002",
+          "episodeRating": "8.0",
+          "imdbLink": "https://www.imdb.com/title/tt0749451/?ref_=ttep_ep1",
+          "runTime": "1h 2min"
+        },
+        {
+          "episodeName": "The Detail",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzgwNjBmNDQtMmUzMC00ZGE0LWJkZGUtMjZhYjI0MTI2NjQxXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "9 Jun. 2002",
+          "episodeRating": "8.3",
+          "imdbLink": "https://www.imdb.com/title/tt0749448/?ref_=ttep_ep2",
+          "runTime": "58min"
+        },
+        {
+          "episodeName": "The Buys",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzVhMzc0ZTQtM2JhNi00OGI1LTg1ZjItNjdlYTYwY2U1OWY3XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "16 Jun. 2002",
+          "episodeRating": "8.3",
+          "imdbLink": "https://www.imdb.com/title/tt0749446/?ref_=ttep_ep3",
+          "runTime": "55min"
+        },
+        {
+          "episodeName": "Old Cases",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDMzNzFjZjQtM2E0Mi00MmJlLWExZTktY2E1ZWIwNTk0MzUyXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "23 Jun. 2002",
+          "episodeRating": "8.3",
+          "imdbLink": "https://www.imdb.com/title/tt0749437/?ref_=ttep_ep4",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "The Pager",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTFhMjcxNjgtODQ0My00MDI1LTljNWMtNzQzOGYwMjBhNGFiXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "30 Jun. 2002",
+          "episodeRating": "8.4",
+          "imdbLink": "https://www.imdb.com/title/tt0749450/?ref_=ttep_ep5",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "The Wire",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmY5ZDMxODEtNWIwOS00NjdkLTkyMjktNWRjMDhmYjJjN2RmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+          "airDate": "7 Jul. 2002",
+          "episodeRating": "8.6",
+          "imdbLink": "https://www.imdb.com/title/tt0306414/?ref_=ttep_ep_tt",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "One Arrest",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDEzZGM5N2QtNGFjNS00Y2M4LTgyY2MtODBiMzUzMDg5MzhkXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "21 Jul. 2002",
+          "episodeRating": "8.6",
+          "imdbLink": "https://www.imdb.com/title/tt0749438/?ref_=ttep_ep7",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Lessons",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmFjMWJhN2YtNDFiNy00YjAyLWFlNmYtZjMyZWNlMzdkNmU4XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "28 Jul. 2002",
+          "episodeRating": "8.6",
+          "imdbLink": "https://www.imdb.com/title/tt0749433/?ref_=ttep_ep8",
+          "runTime": "56min"
+        },
+        {
+          "episodeName": "Game Day",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTQyY2YwYmYtZDRlOC00MDU2LWEzZjYtYjUwZGM5ZTRjZmIxXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "4 Aug. 2002",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0749429/?ref_=ttep_ep9",
+          "runTime": "57min"
+        },
+        {
+          "episodeName": "The Cost",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGE1Njg0MTEtOTUzMC00ZTEyLThlZDUtZDAyMzU1ZGU3ZTM3XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "11 Aug. 2002",
+          "episodeRating": "9.2",
+          "imdbLink": "https://www.imdb.com/title/tt0749447/?ref_=ttep_ep10",
+          "runTime": "56min"
+        },
+        {
+          "episodeName": "The Hunt",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjkxYTI2MzUtOGE0MC00YTExLTg1NDYtYTI4NGEyYTNjNGM1XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "18 Aug. 2002",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0749449/?ref_=ttep_ep11",
+          "runTime": "56min"
+        },
+        {
+          "episodeName": "Cleaning Up",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjdkY2RlYzMtYmRjYi00ZThmLWJhMTgtYWE1NmVlNDkxM2EzXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "1 Sep. 2002",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt0749424/?ref_=ttep_ep12",
+          "runTime": "56min"
+        },
+        {
+          "episodeName": "Sentencing",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDAzYmU2ZDctMjNjZC00MTAzLWIzY2MtODA0ZWY3ZGNkN2Q4XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "8 Sep. 2002",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt0749441/?ref_=ttep_ep13",
+          "runTime": "1h 6min"
+        }
+      ]
+    }
+  ]
+}

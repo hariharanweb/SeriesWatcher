@@ -1,0 +1,114 @@
+{
+  "name": "Cosmos",
+  "seasons": [
+    {
+      "season": "Season 1",
+      "episodes": [
+        {
+          "episodeName": "The Shores of the Cosmic Ocean",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BODMxZDUyM2MtOWE2Mi00ZTAyLTk1MzItZGVmODk1N2Q4YWQ3XkEyXkFqcGdeQXVyMzk1MjY5Njc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "28 Sep. 1980",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt0759812/?ref_=ttep_ep1",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "One Voice in the Cosmic Fugue",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDI3Yzg1Y2YtODdiYy00ZGI5LWE1N2MtMmJmZDU1ZDBiYTMzXkEyXkFqcGdeQXVyMzk1MjY5Njc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "5 Oct. 1980",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt0759810/?ref_=ttep_ep2",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "Harmony of the Worlds",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDM5ZDc2MjUtYWZiNi00MzllLWFjNzMtNTkyNWFkMjg1ZmVlXkEyXkFqcGdeQXVyMzk1MjY5Njc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "12 Oct. 1980",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0759807/?ref_=ttep_ep3",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "Heaven and Hell",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzNkOGViMTAtZTkzNC00MWYxLWE5NzgtYTIzZDI0NzM4OTgxXkEyXkFqcGdeQXVyMzk1MjY5Njc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "19 Oct. 1980",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt0759808/?ref_=ttep_ep4",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "Blues for a Red Planet",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjMxZGZjZTgtN2VmNS00YzA5LWI4NzItZDMwNzM2NTgyMTAwXkEyXkFqcGdeQXVyMzk1MjY5Njc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "26 Oct. 1980",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt0759805/?ref_=ttep_ep5",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "Travellers' Tales",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDAyNTllOGUtN2EyOC00NTgxLWE0OTQtNWI1Mzc5M2UyNjIyXkEyXkFqcGdeQXVyMzk1MjY5Njc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "2 Nov. 1980",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0759813/?ref_=ttep_ep6",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "The Backbone of Night",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzYwMDU1MTEtMDI0OS00NDA0LWI1ZTAtNWRjYTM4OGY4NDE2XkEyXkFqcGdeQXVyMzk1MjY5Njc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "9 Nov. 1980",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0759811/?ref_=ttep_ep7",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "Journeys in Space and Time",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTEyNTU4MWYtNjM5NC00YWY5LTgxN2ItNDFkOTNiZjFkNTI4XkEyXkFqcGdeQXVyMzk1MjY5Njc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "16 Nov. 1980",
+          "episodeRating": "9.2",
+          "imdbLink": "https://www.imdb.com/title/tt0759809/?ref_=ttep_ep8",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "The Lives of the Stars",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTNlOWViN2EtMjU3NS00MzgwLWFmNDYtNzZiYzMwNmVjMmNlXkEyXkFqcGdeQXVyMzk1MjY5Njc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "23 Nov. 1980",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt0760463/?ref_=ttep_ep9",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "The Edge of Forever",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmFmYTcwZDItNTM4MS00NTkzLThkZTYtZDNmYjg0NjQ1NWZiXkEyXkFqcGdeQXVyMzk1MjY5Njc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "30 Nov. 1980",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt0760462/?ref_=ttep_ep10",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "The Persistence of Memory",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTU4Nzg2MGQtYzcwNC00MTZhLTg2ZDYtMjQzOTVkZDQ4ZjNiXkEyXkFqcGdeQXVyMzk1MjY5Njc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "7 Dec. 1980",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt0760464/?ref_=ttep_ep11",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "Encyclopaedia Galactica",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzdmYWFkOWEtZDBhZC00MDNlLWI5NjMtMmIxZWZkM2ZkNTdmXkEyXkFqcGdeQXVyMzk1MjY5Njc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "14 Dec. 1980",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt0759806/?ref_=ttep_ep12",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "Who Speaks for Earth?",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTY5OGRiOTUtYjlkYi00ODRmLWJiNjctOWNkYzNlNDQ2MTdiXkEyXkFqcGdeQXVyMzk1MjY5Njc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "21 Dec. 1980",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt0760465/?ref_=ttep_ep13",
+          "runTime": "1h"
+        }
+      ]
+    }
+  ]
+}

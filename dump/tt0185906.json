@@ -1,0 +1,90 @@
+{
+  "name": "Band of Brothers",
+  "seasons": [
+    {
+      "season": "Season 1",
+      "episodes": [
+        {
+          "episodeName": "Currahee",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjk2MDAzMTUtOTI3NS00YThkLThlNTAtZmI3ZGYzNzhmMzIyXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "9 Sep. 2001",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt1245384/?ref_=ttep_ep1",
+          "runTime": "1h 10min"
+        },
+        {
+          "episodeName": "Day of Days",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzkwNDA5MTQtY2E1Yy00MDc4LTk2YmItOTAzZWZkZjllYzdmXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "9 Sep. 2001",
+          "episodeRating": "9.2",
+          "imdbLink": "https://www.imdb.com/title/tt1247465/?ref_=ttep_ep2",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "Carentan",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjU2YzZmODAtNjg4Yy00MTYzLWJjNzQtOWE1YTVlZDBhMTNmXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "16 Sep. 2001",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt1247463/?ref_=ttep_ep3",
+          "runTime": "1h 2min"
+        },
+        {
+          "episodeName": "Replacements",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTg4MGM3NWYtNzcyYS00NjNiLWI3NTQtMzE4NzZkODgxODA3XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "23 Sep. 2001",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt1247467/?ref_=ttep_ep4",
+          "runTime": "57min"
+        },
+        {
+          "episodeName": "Crossroads",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWQ5MjUzN2EtYmMzMS00MDA2LWJiNWItNzcyN2E0YjgzMDdjXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "30 Sep. 2001",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt1247464/?ref_=ttep_ep5",
+          "runTime": "53min"
+        },
+        {
+          "episodeName": "Bastogne",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGZlYWYzYzEtYTQ1Ni00NzJmLWEyYjItNzAzNGRhOTI1ZTA1XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "7 Oct. 2001",
+          "episodeRating": "9.2",
+          "imdbLink": "https://www.imdb.com/title/tt1247462/?ref_=ttep_ep6",
+          "runTime": "1h 4min"
+        },
+        {
+          "episodeName": "The Breaking Point",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BODIyN2I3MmMtYWNlOC00MzhlLWJmODUtM2Y2MDhkNTkzMjQ1XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "14 Oct. 2001",
+          "episodeRating": "9.4",
+          "imdbLink": "https://www.imdb.com/title/tt1247468/?ref_=ttep_ep7",
+          "runTime": "1h 9min"
+        },
+        {
+          "episodeName": "The Last Patrol",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjU2NjI1OGMtMWZkMi00NWYwLTkzMzItNjI4ZDQ4NGQ2YzkzXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "21 Oct. 2001",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt1247469/?ref_=ttep_ep8",
+          "runTime": "56min"
+        },
+        {
+          "episodeName": "Why We Fight",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BODdkYTM4NGQtNGJmMi00ZTRkLWE0MzMtMGNiZTk5YTc0MmFkXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "28 Oct. 2001",
+          "episodeRating": "9.5",
+          "imdbLink": "https://www.imdb.com/title/tt1247470/?ref_=ttep_ep9",
+          "runTime": "55min"
+        },
+        {
+          "episodeName": "Points",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDgzM2EyNDctN2E4ZC00MzNmLWExOTEtYTNhMjI5NWM0NmU2XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "4 Nov. 2001",
+          "episodeRating": "9.2",
+          "imdbLink": "https://www.imdb.com/title/tt1247466/?ref_=ttep_ep10",
+          "runTime": "59min"
+        }
+      ]
+    }
+  ]
+}
