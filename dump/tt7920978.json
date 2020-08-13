@@ -1,106 +1,106 @@
 {
-    "name": "Sahsiyet",
-    "seasons": [
+  "name": "Sahsiyet",
+  "seasons": [
+    {
+      "season": "Season 1",
+      "episodes": [
         {
-            "season": "Season 1",
-            "episodes": [
-                {
-                    "episodeName": "Episode #1.1",
-                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzJjYTcwZDMtNTI1NS00MzM4LWJkZjgtYzJjNmZmMWZmNzEyXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
-                    "airDate": "17 Mar. 2018",
-                    "episodeRating": "8.8",
-                    "imdbLink": "https://www.imdb.com/title/tt8115782/?ref_=ttep_ep1",
-                    "runTime": "1h 12min"
-                },
-                {
-                    "episodeName": "Episode #1.2",
-                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmQ2MjBiYmQtMzkyMi00YjJjLWEwMjUtMTRkYmJjZDY1ODUwXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
-                    "airDate": "17 Mar. 2018",
-                    "episodeRating": "8.6",
-                    "imdbLink": "https://www.imdb.com/title/tt8146014/?ref_=ttep_ep2",
-                    "runTime": "1h 36min"
-                },
-                {
-                    "episodeName": "Episode #1.3",
-                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGQwMDRjNmMtMzIyNC00MGE4LWEyNGUtYjM0YTNlMDUwMDc2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
-                    "airDate": "17 Mar. 2018",
-                    "episodeRating": "8.6",
-                    "imdbLink": "https://www.imdb.com/title/tt8146022/?ref_=ttep_ep3",
-                    "runTime": "52min"
-                },
-                {
-                    "episodeName": "Episode #1.4",
-                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmI3NTc4YzQtMTk2Zi00ODA2LWI0MTAtNmU5YmQzZjUxMDkwXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
-                    "airDate": "13 Apr. 2018",
-                    "episodeRating": "9.0",
-                    "imdbLink": "https://www.imdb.com/title/tt8242530/?ref_=ttep_ep4",
-                    "runTime": "1h 7min"
-                },
-                {
-                    "episodeName": "Episode #1.5",
-                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDAxOGFhNDMtMTJkZS00ZjIxLWFiMTktOTViNGViNjA5Mjc3XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
-                    "airDate": "13 Apr. 2018",
-                    "episodeRating": "8.7",
-                    "imdbLink": "https://www.imdb.com/title/tt8244810/?ref_=ttep_ep5",
-                    "runTime": "1h 36min"
-                },
-                {
-                    "episodeName": "Episode #1.6",
-                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmRmM2ZjZDctYjMwNy00YWI4LWI4OTQtMTliMjY2NGM3YzZiXkEyXkFqcGdeQXVyNTM5NjkxMzM@._V1_UY126_UX224_AL_.jpg",
-                    "airDate": "13 Apr. 2018",
-                    "episodeRating": "8.9",
-                    "imdbLink": "https://www.imdb.com/title/tt8244812/?ref_=ttep_ep6",
-                    "runTime": "57min"
-                },
-                {
-                    "episodeName": "Episode #1.7",
-                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTM0MjA3OTUtOTdjZi00MDY0LTk3NTAtNDIxZDU5NDJjYmFmXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
-                    "airDate": "11 May 2018",
-                    "episodeRating": "8.5",
-                    "imdbLink": "https://www.imdb.com/title/tt8390372/?ref_=ttep_ep7",
-                    "runTime": "1h"
-                },
-                {
-                    "episodeName": "Episode #1.8",
-                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDRiNzIzZDctMDBiZi00YTY2LWEyNWUtZTA0Mjc2ZWQ3NGEzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
-                    "airDate": "11 May 2018",
-                    "episodeRating": "8.7",
-                    "imdbLink": "https://www.imdb.com/title/tt8390390/?ref_=ttep_ep8",
-                    "runTime": "1h 4min"
-                },
-                {
-                    "episodeName": "Episode #1.9",
-                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGU3MGYyOTAtMjI3Ni00MzJlLTljOWUtYzk3OGNhOTk0YmRhXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
-                    "airDate": "11 May 2018",
-                    "episodeRating": "8.4",
-                    "imdbLink": "https://www.imdb.com/title/tt8390410/?ref_=ttep_ep9",
-                    "runTime": "1h 36min"
-                },
-                {
-                    "episodeName": "Episode #1.10",
-                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTFiMTAwODktODk4Yi00NjI0LTk1MzYtNzQ5YjEyNDkxYTE1XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
-                    "airDate": "8 Jun. 2018",
-                    "episodeRating": "8.7",
-                    "imdbLink": "https://www.imdb.com/title/tt8492808/?ref_=ttep_ep10",
-                    "runTime": "59min"
-                },
-                {
-                    "episodeName": "Episode #1.11",
-                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWQ4ZWY4ZDEtMzI1ZC00ZjQzLTk2OGEtMzlhNGQ2MDM2YmU4XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
-                    "airDate": "8 Jun. 2018",
-                    "episodeRating": "9.1",
-                    "imdbLink": "https://www.imdb.com/title/tt8492812/?ref_=ttep_ep11",
-                    "runTime": "1h 36min"
-                },
-                {
-                    "episodeName": "Episode #1.12",
-                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmVlNTQxOWYtMzg5Yy00ZTM1LWFjYmItNGZjMjE1NDRkOTU0XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
-                    "airDate": "8 Jun. 2018",
-                    "episodeRating": "9.6",
-                    "imdbLink": "https://www.imdb.com/title/tt8492824/?ref_=ttep_ep12",
-                    "runTime": "1h 36min"
-                }
-            ]
+          "episodeName": "Episode #1.1",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzJjYTcwZDMtNTI1NS00MzM4LWJkZjgtYzJjNmZmMWZmNzEyXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
+          "airDate": "17 Mar. 2018",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt8115782/?ref_=ttep_ep1",
+          "runTime": "1h 12min"
+        },
+        {
+          "episodeName": "Episode #1.2",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmQ2MjBiYmQtMzkyMi00YjJjLWEwMjUtMTRkYmJjZDY1ODUwXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "17 Mar. 2018",
+          "episodeRating": "8.6",
+          "imdbLink": "https://www.imdb.com/title/tt8146014/?ref_=ttep_ep2",
+          "runTime": "1h 36min"
+        },
+        {
+          "episodeName": "Episode #1.3",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGQwMDRjNmMtMzIyNC00MGE4LWEyNGUtYjM0YTNlMDUwMDc2XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "17 Mar. 2018",
+          "episodeRating": "8.6",
+          "imdbLink": "https://www.imdb.com/title/tt8146022/?ref_=ttep_ep3",
+          "runTime": "52min"
+        },
+        {
+          "episodeName": "Episode #1.4",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmI3NTc4YzQtMTk2Zi00ODA2LWI0MTAtNmU5YmQzZjUxMDkwXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "13 Apr. 2018",
+          "episodeRating": "9.0",
+          "imdbLink": "https://www.imdb.com/title/tt8242530/?ref_=ttep_ep4",
+          "runTime": "1h 7min"
+        },
+        {
+          "episodeName": "Episode #1.5",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDAxOGFhNDMtMTJkZS00ZjIxLWFiMTktOTViNGViNjA5Mjc3XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
+          "airDate": "13 Apr. 2018",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt8244810/?ref_=ttep_ep5",
+          "runTime": "1h 36min"
+        },
+        {
+          "episodeName": "Episode #1.6",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmRmM2ZjZDctYjMwNy00YWI4LWI4OTQtMTliMjY2NGM3YzZiXkEyXkFqcGdeQXVyNTM5NjkxMzM@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "13 Apr. 2018",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt8244812/?ref_=ttep_ep6",
+          "runTime": "57min"
+        },
+        {
+          "episodeName": "Episode #1.7",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTM0MjA3OTUtOTdjZi00MDY0LTk3NTAtNDIxZDU5NDJjYmFmXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
+          "airDate": "11 May 2018",
+          "episodeRating": "8.5",
+          "imdbLink": "https://www.imdb.com/title/tt8390372/?ref_=ttep_ep7",
+          "runTime": "1h"
+        },
+        {
+          "episodeName": "Episode #1.8",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDRiNzIzZDctMDBiZi00YTY2LWEyNWUtZTA0Mjc2ZWQ3NGEzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
+          "airDate": "11 May 2018",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt8390390/?ref_=ttep_ep8",
+          "runTime": "1h 4min"
+        },
+        {
+          "episodeName": "Episode #1.9",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGU3MGYyOTAtMjI3Ni00MzJlLTljOWUtYzk3OGNhOTk0YmRhXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
+          "airDate": "11 May 2018",
+          "episodeRating": "8.4",
+          "imdbLink": "https://www.imdb.com/title/tt8390410/?ref_=ttep_ep9",
+          "runTime": "1h 36min"
+        },
+        {
+          "episodeName": "Episode #1.10",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTFiMTAwODktODk4Yi00NjI0LTk1MzYtNzQ5YjEyNDkxYTE1XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
+          "airDate": "8 Jun. 2018",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt8492808/?ref_=ttep_ep10",
+          "runTime": "59min"
+        },
+        {
+          "episodeName": "Episode #1.11",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWQ4ZWY4ZDEtMzI1ZC00ZjQzLTk2OGEtMzlhNGQ2MDM2YmU4XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
+          "airDate": "8 Jun. 2018",
+          "episodeRating": "9.1",
+          "imdbLink": "https://www.imdb.com/title/tt8492812/?ref_=ttep_ep11",
+          "runTime": "1h 36min"
+        },
+        {
+          "episodeName": "Episode #1.12",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmVlNTQxOWYtMzg5Yy00ZTM1LWFjYmItNGZjMjE1NDRkOTU0XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "8 Jun. 2018",
+          "episodeRating": "9.6",
+          "imdbLink": "https://www.imdb.com/title/tt8492824/?ref_=ttep_ep12",
+          "runTime": "1h 36min"
         }
-    ]
+      ]
+    }
+  ]
 }

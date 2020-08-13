@@ -1,1 +1,90 @@
-{"name":"The Blue Planet","seasons":[{"season":"Season 1","episodes":[{"episodeName":"Ocean World","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTc0NzY1OTk5MV5BMl5BanBnXkFtZTgwNzE3MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"27 Jan. 2002","episodeRating":"8.2","imdbLink":"https://www.imdb.com/title/tt0846812/?ref_=ttep_ep1","runTime":"49min"},{"episodeName":"The Deep","imageUrl":"https://m.media-amazon.com/images/M/MV5BNjM3ODE0MDMyNl5BMl5BanBnXkFtZTgwNjM1MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"19 Sep. 2001","episodeRating":"8.5","imdbLink":"https://www.imdb.com/title/tt0846339/?ref_=ttep_ep2","runTime":"49min"},{"episodeName":"Open Ocean","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTY2NzQ1MTA0Nl5BMl5BanBnXkFtZTgwNjI3MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"26 Sep. 2001","episodeRating":"8.0","imdbLink":"https://www.imdb.com/title/tt0846813/?ref_=ttep_ep3","runTime":"48min"},{"episodeName":"Frozen Seas","imageUrl":"https://m.media-amazon.com/images/M/MV5BNzAxMDgyODE3N15BMl5BanBnXkFtZTgwMDU3MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"4 Oct. 2001","episodeRating":"8.2","imdbLink":"https://www.imdb.com/title/tt0846811/?ref_=ttep_ep4","runTime":"49min"},{"episodeName":"Seasonal Seas","imageUrl":"https://m.media-amazon.com/images/M/MV5BMjA4MDcyMjk3M15BMl5BanBnXkFtZTgwMDM3MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"10 Oct. 2001","episodeRating":"8.0","imdbLink":"https://www.imdb.com/title/tt0846814/?ref_=ttep_ep5","runTime":"49min"},{"episodeName":"Coral Seas","imageUrl":"https://m.media-amazon.com/images/M/MV5BOTI0NDI1Mjk3MV5BMl5BanBnXkFtZTgwNjE3MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"17 Oct. 2001","episodeRating":"8.1","imdbLink":"https://www.imdb.com/title/tt0846810/?ref_=ttep_ep6","runTime":"49min"},{"episodeName":"Tidal Seas","imageUrl":"https://m.media-amazon.com/images/M/MV5BMjE5ODU4MDk5NV5BMl5BanBnXkFtZTgwMzI3MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"24 Oct. 2001","episodeRating":"8.0","imdbLink":"https://www.imdb.com/title/tt0846815/?ref_=ttep_ep7","runTime":"49min"},{"episodeName":"Coasts","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTQyMjUwOTM5MF5BMl5BanBnXkFtZTgwNTM1MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"31 Oct. 2001","episodeRating":"8.1","imdbLink":"https://www.imdb.com/title/tt0846338/?ref_=ttep_ep8","runTime":"48min"},{"episodeName":"Deep Trouble","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTk2Mzk1NTU0N15BMl5BanBnXkFtZTcwMjMwMTYxMQ@@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"28 Oct. 2001","episodeRating":"7.6","imdbLink":"https://www.imdb.com/title/tt1378850/?ref_=ttep_ep9","runTime":"49min"},{"episodeName":"Making Waves","imageUrl":"https://m.media-amazon.com/images/M/MV5BNmU0NWU2MmYtYzUxMi00ZTQ4LWE0ZGEtNzcyNDZiNzJjYmM4XkEyXkFqcGdeQXVyNTc5MDAyMDE@._V1_UY126_CR32,0,224,126_AL_.jpg","airDate":"11 Nov. 2001","episodeRating":"7.5","imdbLink":"https://www.imdb.com/title/tt0890207/?ref_=ttep_ep10","runTime":"49min"}]}]}
+{
+  "name": "The Blue Planet",
+  "seasons": [
+    {
+      "season": "Season 1",
+      "episodes": [
+        {
+          "episodeName": "Ocean World",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc0NzY1OTk5MV5BMl5BanBnXkFtZTgwNzE3MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "27 Jan. 2002",
+          "episodeRating": "8.2",
+          "imdbLink": "https://www.imdb.com/title/tt0846812/?ref_=ttep_ep1",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "The Deep",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjM3ODE0MDMyNl5BMl5BanBnXkFtZTgwNjM1MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "19 Sep. 2001",
+          "episodeRating": "8.5",
+          "imdbLink": "https://www.imdb.com/title/tt0846339/?ref_=ttep_ep2",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "Open Ocean",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY2NzQ1MTA0Nl5BMl5BanBnXkFtZTgwNjI3MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "26 Sep. 2001",
+          "episodeRating": "8.0",
+          "imdbLink": "https://www.imdb.com/title/tt0846813/?ref_=ttep_ep3",
+          "runTime": "48min"
+        },
+        {
+          "episodeName": "Frozen Seas",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzAxMDgyODE3N15BMl5BanBnXkFtZTgwMDU3MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "4 Oct. 2001",
+          "episodeRating": "8.2",
+          "imdbLink": "https://www.imdb.com/title/tt0846811/?ref_=ttep_ep4",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "Seasonal Seas",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA4MDcyMjk3M15BMl5BanBnXkFtZTgwMDM3MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "10 Oct. 2001",
+          "episodeRating": "8.0",
+          "imdbLink": "https://www.imdb.com/title/tt0846814/?ref_=ttep_ep5",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "Coral Seas",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTI0NDI1Mjk3MV5BMl5BanBnXkFtZTgwNjE3MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "17 Oct. 2001",
+          "episodeRating": "8.1",
+          "imdbLink": "https://www.imdb.com/title/tt0846810/?ref_=ttep_ep6",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "Tidal Seas",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjE5ODU4MDk5NV5BMl5BanBnXkFtZTgwMzI3MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "24 Oct. 2001",
+          "episodeRating": "8.0",
+          "imdbLink": "https://www.imdb.com/title/tt0846815/?ref_=ttep_ep7",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "Coasts",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQyMjUwOTM5MF5BMl5BanBnXkFtZTgwNTM1MjIyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "31 Oct. 2001",
+          "episodeRating": "8.1",
+          "imdbLink": "https://www.imdb.com/title/tt0846338/?ref_=ttep_ep8",
+          "runTime": "48min"
+        },
+        {
+          "episodeName": "Deep Trouble",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk2Mzk1NTU0N15BMl5BanBnXkFtZTcwMjMwMTYxMQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "28 Oct. 2001",
+          "episodeRating": "7.6",
+          "imdbLink": "https://www.imdb.com/title/tt1378850/?ref_=ttep_ep9",
+          "runTime": "49min"
+        },
+        {
+          "episodeName": "Making Waves",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmU0NWU2MmYtYzUxMi00ZTQ4LWE0ZGEtNzcyNDZiNzJjYmM4XkEyXkFqcGdeQXVyNTc5MDAyMDE@._V1_UY126_CR32,0,224,126_AL_.jpg",
+          "airDate": "11 Nov. 2001",
+          "episodeRating": "7.5",
+          "imdbLink": "https://www.imdb.com/title/tt0890207/?ref_=ttep_ep10",
+          "runTime": "49min"
+        }
+      ]
+    }
+  ]
+}

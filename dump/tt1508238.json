@@ -1,1 +1,58 @@
-{"name":"Apocalypse: The Second World War","seasons":[{"season":"Season 1","episodes":[{"episodeName":"L'agression","imageUrl":"https://m.media-amazon.com/images/M/MV5BMjAzMTMwNTc5Ml5BMl5BanBnXkFtZTgwMzQ3NzU2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"8 Sep. 2009","episodeRating":"8.7","imdbLink":"https://www.imdb.com/title/tt1609201/?ref_=ttep_ep1","runTime":"53min"},{"episodeName":"L'écrasement","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTYzNzg5OTYyNl5BMl5BanBnXkFtZTgwOTM3NzU2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"8 Sep. 2009","episodeRating":"8.7","imdbLink":"https://www.imdb.com/title/tt1609204/?ref_=ttep_ep2","runTime":"53min"},{"episodeName":"Le choc","imageUrl":"https://m.media-amazon.com/images/M/MV5BNzM1Njg5NzA5MF5BMl5BanBnXkFtZTgwMjQ3NzU2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"15 Sep. 2009","episodeRating":"8.8","imdbLink":"https://www.imdb.com/title/tt1609206/?ref_=ttep_ep3","runTime":"53min"},{"episodeName":"L'embrasement","imageUrl":"https://m.media-amazon.com/images/M/MV5BMjMyNjA3NDUzOF5BMl5BanBnXkFtZTgwNzM3NzU2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"15 Sep. 2009","episodeRating":"8.7","imdbLink":"https://www.imdb.com/title/tt1609202/?ref_=ttep_ep4","runTime":"52min"},{"episodeName":"L'étau","imageUrl":"https://m.media-amazon.com/images/M/MV5BMTQxMzU3MjYwMV5BMl5BanBnXkFtZTgwMDQ3NzU2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"22 Sep. 2009","episodeRating":"8.8","imdbLink":"https://www.imdb.com/title/tt1609205/?ref_=ttep_ep5","runTime":"52min"},{"episodeName":"L'enfer","imageUrl":"https://m.media-amazon.com/images/M/MV5BMjEyNzkzNDg2MV5BMl5BanBnXkFtZTgwODM3NzU2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg","airDate":"22 Sep. 2009","episodeRating":"8.9","imdbLink":"https://www.imdb.com/title/tt1609203/?ref_=ttep_ep6","runTime":"59min"}]}]}
+{
+  "name": "Apocalypse: The Second World War",
+  "seasons": [
+    {
+      "season": "Season 1",
+      "episodes": [
+        {
+          "episodeName": "L'agression",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjAzMTMwNTc5Ml5BMl5BanBnXkFtZTgwMzQ3NzU2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "8 Sep. 2009",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt1609201/?ref_=ttep_ep1",
+          "runTime": "53min"
+        },
+        {
+          "episodeName": "L'écrasement",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYzNzg5OTYyNl5BMl5BanBnXkFtZTgwOTM3NzU2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "8 Sep. 2009",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt1609204/?ref_=ttep_ep2",
+          "runTime": "53min"
+        },
+        {
+          "episodeName": "Le choc",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzM1Njg5NzA5MF5BMl5BanBnXkFtZTgwMjQ3NzU2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "15 Sep. 2009",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt1609206/?ref_=ttep_ep3",
+          "runTime": "53min"
+        },
+        {
+          "episodeName": "L'embrasement",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjMyNjA3NDUzOF5BMl5BanBnXkFtZTgwNzM3NzU2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "15 Sep. 2009",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt1609202/?ref_=ttep_ep4",
+          "runTime": "52min"
+        },
+        {
+          "episodeName": "L'étau",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQxMzU3MjYwMV5BMl5BanBnXkFtZTgwMDQ3NzU2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "22 Sep. 2009",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt1609205/?ref_=ttep_ep5",
+          "runTime": "52min"
+        },
+        {
+          "episodeName": "L'enfer",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjEyNzkzNDg2MV5BMl5BanBnXkFtZTgwODM3NzU2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "22 Sep. 2009",
+          "episodeRating": "8.9",
+          "imdbLink": "https://www.imdb.com/title/tt1609203/?ref_=ttep_ep6",
+          "runTime": "59min"
+        }
+      ]
+    }
+  ]
+}
