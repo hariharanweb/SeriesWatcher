@@ -1,0 +1,42 @@
+{
+  "name": "I, Claudius",
+  "seasons": [
+    {
+      "season": "Season 1",
+      "episodes": [
+        {
+          "episodeName": "A Touch of Murder",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjM3MzAxMDk1Nl5BMl5BanBnXkFtZTgwMjg2MDU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "20 Sep. 1976",
+          "episodeRating": "8.4",
+          "imdbLink": "https://www.imdb.com/title/tt1255275/?ref_=ttep_ep1",
+          "runTime": "1h 38min"
+        },
+        {
+          "episodeName": "Family Affairs",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2ZmMTUyZDMtMDg4MS00ZDUzLThlZWMtMTkyNWY1ZmJkOTRiXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UY126_UX224_AL_.jpg",
+          "airDate": "20 Sep. 1976",
+          "episodeRating": "8.3",
+          "imdbLink": "https://www.imdb.com/title/tt2384005/?ref_=ttep_ep2",
+          "runTime": "50min"
+        },
+        {
+          "episodeName": "Waiting in the Wings",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzIwNTY5ODg3N15BMl5BanBnXkFtZTgwNjE2MDU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "27 Sep. 1976",
+          "episodeRating": "8.5",
+          "imdbLink": "https://www.imdb.com/title/tt1255283/?ref_=ttep_ep3",
+          "runTime": "52min"
+        },
+        {
+          "episodeName": "What Shall We Do About Claudius?",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTkzNzk3ODYzMV5BMl5BanBnXkFtZTgwNDE2MDU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "4 Oct. 1976",
+          "episodeRating": "8.5",
+          "imdbLink": "https://www.imdb.com/title/tt1255284/?ref_=ttep_ep4",
+          "runTime": "52min"
+        }
+      ]
+    }
+  ]
+}

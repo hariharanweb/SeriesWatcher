@@ -1,0 +1,42 @@
+{
+  "name": "Lonesome Dove",
+  "seasons": [
+    {
+      "season": "Season 1",
+      "episodes": [
+        {
+          "episodeName": "Leaving",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjE4OTcyNTEyMV5BMl5BanBnXkFtZTgwMDIxMjg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "5 Feb. 1989",
+          "episodeRating": "8.2",
+          "imdbLink": "https://www.imdb.com/title/tt1439351/?ref_=ttep_ep1",
+          "runTime": "1h 34min"
+        },
+        {
+          "episodeName": "On the Trail",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjEwNzcwNjY2MV5BMl5BanBnXkFtZTgwMzMxODc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "6 Feb. 1989",
+          "episodeRating": "8.6",
+          "imdbLink": "https://www.imdb.com/title/tt1492004/?ref_=ttep_ep2",
+          "runTime": "1h 30min"
+        },
+        {
+          "episodeName": "The Plains",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTgxOTc4OTc1N15BMl5BanBnXkFtZTgwNzkyMDg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "7 Feb. 1989",
+          "episodeRating": "8.7",
+          "imdbLink": "https://www.imdb.com/title/tt1502547/?ref_=ttep_ep3",
+          "runTime": "1h 34min"
+        },
+        {
+          "episodeName": "Return",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk3NDYwMzA0MV5BMl5BanBnXkFtZTgwMDYyMDg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+          "airDate": "8 Feb. 1989",
+          "episodeRating": "8.8",
+          "imdbLink": "https://www.imdb.com/title/tt1502546/?ref_=ttep_ep4",
+          "runTime": "1h 34min"
+        }
+      ]
+    }
+  ]
+}

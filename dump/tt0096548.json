@@ -1,0 +1,34 @@
+{
+    "name": "Blackadder Goes Forth",
+    "seasons": [
+        {
+            "season": "Season 1",
+            "episodes": [
+                {
+                    "episodeName": "Captain Cook",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc3MzE0NTkzMF5BMl5BanBnXkFtZTgwNjI1ODc5MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "28 Sep. 1989",
+                    "episodeRating": "8.3",
+                    "imdbLink": "https://www.imdb.com/title/tt0758160/?ref_=ttep_ep1",
+                    "runTime": "30min"
+                },
+                {
+                    "episodeName": "Corporal Punishment",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjExNzQ5Njc1Ml5BMl5BanBnXkFtZTgwODE2Mjg5MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "5 Oct. 1989",
+                    "episodeRating": "8.9",
+                    "imdbLink": "https://www.imdb.com/title/tt0526710/?ref_=ttep_ep2",
+                    "runTime": "30min"
+                },
+                {
+                    "episodeName": "Major Star",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTUyOTIxMTMzNV5BMl5BanBnXkFtZTgwNTk2Mjg5MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "12 Oct. 1989",
+                    "episodeRating": "8.5",
+                    "imdbLink": "https://www.imdb.com/title/tt0526713/?ref_=ttep_ep3",
+                    "runTime": "29min"
+                }
+            ]
+        }
+    ]
+}

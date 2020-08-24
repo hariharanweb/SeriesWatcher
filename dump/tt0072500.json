@@ -1,0 +1,63 @@
+{
+    "name": "Fawlty Towers",
+    "seasons": [
+        {
+            "season": "Season 2",
+            "episodes": [
+                {
+                    "episodeName": "Communication Problems",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjAwN2VkNzItYzY0My00M2U3LWJhMzYtMTk4ZDgxMDEyMDljXkEyXkFqcGdeQXVyNjI2NzkwNDM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "19 Feb. 1979",
+                    "episodeRating": "9.3",
+                    "imdbLink": "https://www.imdb.com/title/tt0578586/?ref_=ttep_ep1",
+                    "runTime": "31min"
+                },
+                {
+                    "episodeName": "The Psychiatrist",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk5NTk5MDMzOV5BMl5BanBnXkFtZTgwOTY5NTEyMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "26 Feb. 1979",
+                    "episodeRating": "9.1",
+                    "imdbLink": "https://www.imdb.com/title/tt0578593/?ref_=ttep_ep2",
+                    "runTime": "36min"
+                },
+                {
+                    "episodeName": "Waldorf Salad",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDFmZmQwZjEtMjQwMi00NmU0LWE1NmMtM2QzYmFhNzYyYWY5XkEyXkFqcGdeQXVyNjI2NzkwNDM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "5 Mar. 1979",
+                    "episodeRating": "8.4",
+                    "imdbLink": "https://www.imdb.com/title/tt0578595/?ref_=ttep_ep3",
+                    "runTime": "32min"
+                }
+            ]
+        },
+        {
+            "season": "Season 1",
+            "episodes": [
+                {
+                    "episodeName": "A Touch of Class",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTVkODgyNTMtYmM0OS00MTQ4LWJhMDgtNzUwMzcwZmU3MDFjXkEyXkFqcGdeQXVyNjI2NzkwNDM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "19 Sep. 1975",
+                    "episodeRating": "8.6",
+                    "imdbLink": "https://www.imdb.com/title/tt0578584/?ref_=ttep_ep1",
+                    "runTime": "30min"
+                },
+                {
+                    "episodeName": "The Builders",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmQ1MTQ4OTktM2ZiNS00YzY0LWE4MjUtNjM4MDUyNThkMzgyXkEyXkFqcGdeQXVyNjI2NzkwNDM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "26 Sep. 1975",
+                    "episodeRating": "8.5",
+                    "imdbLink": "https://www.imdb.com/title/tt0578589/?ref_=ttep_ep2",
+                    "runTime": "28min"
+                },
+                {
+                    "episodeName": "The Wedding Party",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGE4ZjA0NmMtMjIzYy00YjFiLTg4MDctYmM2MGExYzI4ZjFiXkEyXkFqcGdeQXVyNjI2NzkwNDM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "airDate": "3 Oct. 1975",
+                    "episodeRating": "8.4",
+                    "imdbLink": "https://www.imdb.com/title/tt0578594/?ref_=ttep_ep3",
+                    "runTime": "33min"
+                }
+            ]
+        }
+    ]
+}
