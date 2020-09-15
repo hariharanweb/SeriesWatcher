@@ -36,6 +36,27 @@ app.get('/series/:seriesId', (req, res) => {
     }
 })
 
+app.get('/v2/series/:seriesId', (req, res) => {
+    if (!isAuthorized(req)) {
+        res.status(401).send("Unauthorized")
+        return
+    }
+    res.setHeader('Content-Type', 'application/json');
+    try {
+        const seriesId = req.params.seriesId
+        const seriesDetails = require(`./dump/${seriesId}.json`)
+        const seriesInfo  = listing.find(series => series.id === seriesId)
+        delete seriesInfo['title']
+        const seriesDetailsWithInfo = {
+            ...seriesInfo,
+            ...seriesDetails
+        }
+        res.send(seriesDetailsWithInfo)
+    } catch (error) {
+        res.status(404).send("Sorry can't find that series")
+    }
+})
+
 app.post('/login', (req, res) => {
     if (req.body.username === 'user1' && req.body.password === 'password1') {
         const response = {
